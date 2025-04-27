@@ -1,0 +1,29 @@
+# Configuración base para episodios del podcast
+episode:
+  number: 2  # Número del episodio
+  title: "ViewMind"  # Título del episodio
+  date: "2024-03-20"  # Fecha de grabación
+  guests:
+    - name: "Nombre del Invitado"
+      role: "Rol del Invitado"
+      company: "Empresa del Invitado"
+
+# Configuración de rutas
+paths:
+  raw_audio: "raw/guest_test.wav"  # Ruta al audio raw
+  processed_audio: "processed/"  # Directorio para audio procesado
+  transcripts: "processed/transcripts/"  # Directorio para transcripciones
+  linkedin_posts: "linkedin_posts/"  # Directorio para posts de LinkedIn
+  logs: "logs/"  # Directorio para logs
+
+# Configuración de procesamiento
+processing:
+  audio:
+    sample_rate: 44100
+    channels: 2
+  transcription:
+    language: "es"
+    model: "whisper"
+  content:
+    max_post_length: 3000
+    min_post_length: 1000 

@@ -1,0 +1,379 @@
+ Muchas gracias, el placer es mío y muy agradecido por la invitación.
+ ¿Qué es ViewMind?
+ Sí, fui investigador freelance durante unos cuantos años
+ y luego apliqué a carrera con ISET
+ y me fui a la universidad de San Francisco
+ y me fui a la universidad de San Francisco.
+ Y entré como investigador, pero a su vez
+ eso vendría a ser la última etapa.
+ La primera etapa estuve viviendo en Alemania y en Reino Unido
+ donde en lugares especializados en lo que son movimientos oculares y cognición
+ fui incorporando las herramientas que me permitían justamente vincular los ojos
+ con el cerebro y la mente
+ y poder entender qué pasa cuando una persona no procesa bien
+ la información visual,
+ qué implicancias tiene en la memoria,
+ en la velocidad de procesamiento
+ y demás capacidades cognitivas.
+ Es decir, que si bien el comienzo fue como investigador,
+ era un investigador un tanto informal
+ buscando, digamos, algunos lineamientos
+ que me pudiesen encontrar esta vinculación
+ entre movimientos oculares, cognición y cerebro.
+ Porque los ojos son uno de los,
+ si no, al menos en nuestra cultura occidental, más desarrollado.
+ Casi todo lo que nosotros incorporamos lo hacemos en primer lugar
+ y damos más crédito a lo que vemos que a lo que escuchamos o tocamos o olemos.
+ Y digamos eso desde un aspecto cultural
+ y desde un aspecto...
+ biológico, el ojo es parte del sistema nervioso central.
+ Entonces vendría a ser un órgano que nos permite acceder
+ con muy poco ruido al funcionamiento del cerebro.
+ Distinto es el tacto, el olfato,
+ bueno, tiene un centro de funcionamiento particular,
+ la audición, que tienen intermediarios, digamos,
+ entre la señal que se produce por algún objeto
+ y cómo el cerebro la procesa.
+ Acá simplemente desde que entra un fotón en la retina
+ y ahí empieza todo el procesamiento.
+ Es un órgano que nos da información muy limpia
+ y nos permite acceder de forma directa al cerebro.
+ En primer lugar, siempre el objetivo fue entender
+ cómo funciona el cerebro, cómo funciona también la cognición.
+ Entonces, y teniendo en cuenta esto de la visión,
+ de qué forma se podía integrar la exploración visual
+ sobre imágenes específicas, porque obviamente cada imagen
+ va a activar distintas partes del cerebro
+ y sobre las imágenes específicas,
+ sobre las imágenes específicas, sobre las imágenes específicas,
+ sobre las imágenes específicas, sobre las imágenes específicas,
+ todo basados en la
+ instrucción que es a la persona. Si una persona
+ le muestra una figura y le dice, bueno,
+ si en esa figura supongamos una foto que hay personas
+ y le dice, bueno, contá cuántas
+ personas hay en esta foto, ese
+ conteo va a hacer que los ojos busquen
+ algo. Si le pregunta, bueno,
+ ¿qué distancia hay
+ entre ellos? Va a buscar otra cosa.
+ La altura de cada persona es otra,
+ la edad es otra. Cada
+ indicación
+ que se le, cada tarea que se le da a la persona
+ va a requerir de
+ una búsqueda visual
+ que va a tener por detrás un objetivo.
+ Y esa búsqueda visual se va a
+ ver reflejada en la
+ forma en que los ojos buscan
+ esa información, ¿cierto? En una
+ tarea particular.
+ Entonces, en este sentido,
+ empezó como una cuestión de
+ todo el tiempo estamos explorando
+ cosas. Esa exploración no
+ es arbitraria, sino que responde a objetivos.
+ Esos objetivos
+ tienen detrás indicaciones
+ que básicamente es
+ responder una pregunta, ¿qué es lo que
+ estoy buscando y por qué?
+ Y para que todo eso se logre, tiene que haber
+ detrás un sistema cognitivo
+ que funcione bien. Una memoria,
+ una tensión,
+ una concentración, una velocidad
+ de procesamiento. Entonces, bueno,
+ la idea de a poquito fue
+ tratar de integrar todo esto
+ y entender cuando vemos algo,
+ qué es lo que pasa y por qué lo procesamos como lo
+ procesamos. Y particularmente
+ en un momento, hace unos años
+ atrás, debe estar circulando, pero eran unos
+ años atrás, estoy refiriendo a unos 20 años atrás,
+ se hizo muy popular
+ un texto,
+ un párrafo
+ donde tenía
+ las
+ letras de las palabras cambiadas
+ de lugar o con palabras
+ faltantes. Entonces,
+ lo que planteaba la
+ consigna es, si usted puede leer esto,
+ entonces no tiene
+ Alzheimer. Y ese fue un poco el
+ disparador, la curiosidad de
+ bueno, ¿qué hay
+ detrás de esto?
+ ¿Cómo interpretamos?
+ ¿Cómo vamos llenando letras
+ en palabras que no están?
+ ¿Y cómo a través de
+ un contexto le podemos dar sentido
+ a cada palabra? Ese fue un poco
+ el disparador. Si bien venía trabajando
+ en toda la percepción visual, porque siempre
+ me interesó, ese fue el disparador
+ para vincular la percepción visual
+ con procesos
+ más complejos, como sean en la
+ lectura. Y detrás de eso,
+ bueno, si era el Alzheimer,
+ lo que había detrás, entonces la memoria
+ obviamente estaba involucrada, la predicción
+ de palabras entrantes, a medida que íbamos leyendo
+ el texto.
+ Y una de las formas que se me ocurrió
+ de
+ chequear qué es lo que
+ hace realmente la persona cuando
+ busca la información y va completando
+ lo que no hay, dónde se fija,
+ si hay un contexto, cómo va tomando
+ las palabras dentro de ese contexto
+ para darle sentido a ese párrafo.
+ Y poder cambiar
+ símbolos, a veces arbitrarios, por palabras
+ concretas. Fue, ok,
+ ¿habrá alguna técnica que
+ me permita medir
+ cómo es la exploración visual? Sí.
+ ¿Cuál es esa técnica? Eye tracking.
+ Y ahí es donde
+ digamos, me pregunté
+ bueno, ¿esto dónde se hace?
+ Estoy hablando del año
+ 2004, 2005.
+ Acá en Argentina aún no había ningún
+ eye tracker. El primero llegó
+ en el 2008, más o menos, con Mariano.
+ Que fui a trabajar ahí
+ al laboratorio de él.
+ Y me empecé a contactar con otras personas
+ que estaban trabajando, no en esto
+ concreto, pero sí en
+ la visualización de imágenes
+ y también un poco de lectura,
+ pero no con estos procesos
+ o tratando de entender cómo una persona
+ ¿qué pasaba cuando una persona
+ no podía interpretarlo? ¿Qué estaba funcionando
+ por detrás?
+ Y en este sentido,
+ para testear esto,
+ es que construí
+ el primer conjunto de oraciones
+ en español, básicamente
+ donde podía medir todo lo que era
+ predictibilidad,
+ semántica y demás.
+ Y la forma de chequearlo,
+ que digamos, si era cierto eso que una persona
+ con Alzheimer no lo podía leer,
+ fue involucrarme
+ a un hospital
+ que tenía obviamente pacientes
+ con Alzheimer, leve,
+ y empezar a ver qué hacían
+ esos pacientes con Alzheimer cuando leían
+ estas oraciones y qué hacían las
+ personas, digamos, sanas.
+ Y ahí empecé a encontrar estos patrones
+ de búsqueda visual, pérdida
+ de sentido, falta de atención,
+ de concentración, problemas
+ sobre todo en la memoria de trabajo
+ y demás. Así que bueno, fue un proceso
+ tal vez disparado por
+ este texto, o sea, obviamente
+ estaba un poco en contexto,
+ pero este texto fue lo que disparó
+ qué procesos habrán detrás de esto
+ y realmente será Alzheimer
+ lo que no deja leer, será la memoria,
+ será otra cosa, será,
+ un bajo índice de lectura
+ y demás cosas que fueron
+ los disparadores de
+ esto que inició, si bien
+ digo, en el 2004.
+ De eso un producto se pasa
+ con financiación. Entonces, bueno,
+ nosotros teníamos esta idea
+ y aplicamos
+ desde la academia,
+ aplicamos a un PICT
+ Startup
+ que no nos dieron.
+ Pero hubo una segunda
+ alternativa, porque ya
+ digamos, no había chances de no
+ desarrollarlo, ya se había decidido
+ que esto había que desarrollarlo, teníamos buenos resultados,
+ obviamente no teníamos miles
+ de personas evaluadas, pero teníamos la suficiente
+ como para suscitar el interés
+ de seguir avanzando. Teníamos
+ lo que vos
+ mencionas, digamos, denominaste
+ como una señal, una señal, una tendencia
+ a algo que parecía plausible.
+ Y apliqué a un fondo en Alemania,
+ digamos, un fondo de desarrollo
+ y cuando apliqué a eso,
+ medio de casualidad,
+ conocí a una persona del grupo empresarial
+ Sankor, que tiene un
+ un
+ fue el primer año de
+ de gestión
+ de incubación de startups,
+ que se llama CITES.
+ Conocí a uno que en ese momento era
+ uno de los representantes de ellos, Gerardo Marchesini,
+ charlando con él de forma muy informal
+ y me dice, mira, nosotros
+ estamos lanzando un programa,
+ yo soy uno de los coordinadores
+ y estaría muy bueno que puedas
+ presentar una prueba de concepto
+ y si vemos
+ que es viable, vamos
+ a tratar de financiarla. Hacemos un mentor,
+ hacemos un review, hacemos una incubación,
+ la mejoramos.
+ Esto siempre tiene que tener una propiedad intelectual detrás.
+ Un Know How claro y tiene que ser escalable.
+ Y bueno, y aplicamos una semana porque
+ el deadline estaba ahí y nos convocaron
+ y empezó un proceso de incubación con ellos,
+ donde empezamos a entender más
+ nuestra idea como algo que tenía que,
+ como vos decías, llegar a un producto. Algo que tenía que ser implementado.
+ Algo que tenía que ser vendible, tenía que ser escalable, tenía que ser innovador y sobre todo tenía que resolver un problema.
+ Entonces tuvimos que pensar ya desde el vamos, desde una posición comercial más que netamente académica
+ y ese usuario potencial que eventualmente en algún momento podía estar ya tenía que existir dentro de este modelo
+ y bueno, fue cuestión de ir aprendiendo todo este sistema, aprender en este sistema emprendedor
+ y ir modificando un poquito la mentalidad de mantenerse enfocado en aquello que tenía sentido para llegar a un producto vendible.
+ Fue un proceso, digamos, que tuvo que aprender, aprender cómo proponerlo, aprender a escribir la propiedad intelectual
+ de forma que sea probada.
+ No solo en Argentina, sino en distintas partes, porque desde el día uno el objetivo no era hacer una PyME, sino hacer una empresa internacional.
+ Entonces, de nuevo, desde el inicio el objetivo era hacer las cosas lo suficientemente robustas como para que sean escalables.
+ Éramos distintos investigadores de...
+ Conicet y de la Universidad Nacional del Sur y un médico psiquiatra inicialmente con el que trabajábamos,
+ Osvaldo Gamenoni, David Orozco, Pablo Mandolesi, Albano Layupa, que fue el grupo fundador,
+ pero una vez que se incorpora CITES como inversor, nos plantea armar justamente un equipo que permita escalar esa tecnología
+ y un equipo...
+ que se radique en Santa Fe.
+ Entonces, bueno, era todo un desafío que no es nada descabellado,
+ porque cada vez que nos hemos encontrado con un inversor nos pide que nos mudemos al lugar donde está el inversor,
+ porque hay otros grupos desarrollando, se crea una sinergia de equipo,
+ una sinergia de lo que se llama la máquina de café donde uno conversa,
+ intercambia ideas y hace que, digamos, que se pueda concentrar más y tener una visión en común de cómo desarrollar algo.
+ Así que, por eso hablé un pasado, porque una vez que CITES invierte, bueno, se reconfigura el equipo
+ e se incorporan miembros que, digamos, traen ellos para justamente hacer de esta idea conceptual un producto.
+ Perfiles de desarrollo y perfiles técnicos, básicamente, porque lo que hacemos nosotros es software,
+ pero es un software que tiene que ser lo suficientemente robusto como para que puede ir migrando en distintos hardwares,
+ en este caso en distintos eye trackers, sin tener ningún...
+ tipo de crasheo, o sea, tiene que funcionar siempre.
+ Entonces, hacer un sistema lo suficientemente robusto y que sea independiente del equipo que se use
+ requirió contratar personas que eran idóneas, obviamente, y esas personas idóneas en parte fueron las que pudimos contratar
+ con la financiación de CITES y también incorporamos a un CEO que vino con ellos
+ y también incorporamos a gente, o sea, a profesionales vinculados con logística,
+ vinculados con entradas en hospitales más grandes, de capital e incluso algunos del Mercosur.
+ O sea, se incorporó gente que podía hacer que ese producto vaya creciendo y sea robusto.
+ Querido y esperado porque desde el inicio, el objetivo era obtener un producto
+ que sea usable, que satisfaga una necesidad que no estaba cubierta.
+ Básicamente, que podamos proveer una herramienta que permita medir de forma robusta, aguda y muy sensible,
+ deterioro cognitivo...
+ Y alteraciones en ciertos circuitos cerebrales. Así que fue súper bienvenido porque era obvio que necesitábamos esa financiación y era obvio que necesitábamos un equipo que nos lleve a la creación de ese producto. O sea que era algo bienvenido y bueno, de nuevo, como decía antes, si no era acá iba a ser afuera, pero en algún lugar íbamos a hacer ese desarrollo.
+ ¿Cómo se ha desarrollado el proyecto?
+ ¿Cómo se ha desarrollado el proyecto?
+ Digamos, se abrieron las puertas a la industria farmacéutica porque ellos tenían acceso, o sea, tenían colaboraciones con Novartis, con Biogen y otras empresas internacionales de la industria farmacéutica.
+ Todos llegaron a un concepto común y era que para que una tecnología sea adoptada por personal de salud, que sería nuestro caso, tenía que ser recomendada en una forma y aprobada a su vez.
+ Entonces, desde un inicio, de nuevo, quedó claro que lo que necesitábamos nosotros era mostrarles nuestro desarrollo a líderes de opinión en el ámbito y que ellos usen la tecnología, entiendan las bondades de la tecnología, qué solución ofrece y luego la empiecen a usar en sus centros de trabajo.
+ Y es un ambiente muy importante.
+ Digamos, muy el estilo piramidal, es decir, donde se empieza a usar arriba, empieza a bajar.
+ Obviamente, esto era obvio que iba a llevar un buen tiempo porque no solo había que lograr la voluntad de estos líderes de opinión, sino también que había que definir un protocolo que les sea útil a todos, tanto a ellos como a nosotros, definir los costos de hacer ese protocolo, conseguir el dinero, el tiempo, el inicio.
+ Probando pruebas, porque obviamente el producto fue mejorando en el tiempo y sabiendo esto, bueno, iniciamos ese camino.
+ ¿Cómo llegamos? A través de buenas propuestas. Y las buenas propuestas a los centros las tuvimos inicialmente escribiendo papers sobre los temas que estábamos trabajando.
+ Entonces, una de las estrategias que desarrollamos fueron, tenemos datos de personas inicialmente con...
+ Trabajamos mucho con Alzheimer, escribíamos los papers y los invitábamos a estas personas a participar como coautores.
+ Entonces, eso permitía, por un lado, que ellos, como coautores, cuando aceptaban, obviamente, lean el trabajo, le hiciesen las correcciones que creyesen pertinentes y diesen, en algunas ocasiones, más estudios, más evaluaciones para confirmar algunas hipótesis.
+ Y una vez que ellos estaban convencidos, se abría.
+ Se abría la puerta de, ok, entendemos cómo funciona esto, vemos cuál es el potencial, pero lo queremos hacer para asegurarnos que esos resultados van a dar lo mismo en nuestros laboratorios, o en nuestros hospitales, o en nuestras clínicas, o industrias farmacéuticas.
+ Y así fue como nos fuimos metiendo, invitándolos a colaborar en nuestros artículos y luego proponiéndoles, una vez que tenían más seguridad sobre qué se trataba,
+ replicarlo.
+ Y así fue como nos fuimos metiendo, invitándolos a colaborar en nuestros artículos y luego proponiéndoles, una vez que tenían más seguridad sobre qué se trataba, replicarlo.
+ Y así fue como nos fuimos metiendo, invitándolos a colaborar en nuestros artículos y luego proponiéndoles, una vez que tenían más seguridad sobre qué se trataba, replicarlo.
+ Y así fue como nos fuimos metiendo, invitándolos a colaborar en nuestros artículos y luego proponiéndoles, una vez que tenían más seguridad sobre qué se trataba, replicarlo.
+ Y así fue como nos fuimos metiendo, invitándolos a colaborar en nuestros artículos y luego proponiéndoles, una vez que tenían más seguridad sobre qué se trataba, replicarlo.
+ Y así fue como nos fuimos metiendo, invitándolos a colaborar en nuestros artículos y luego proponiéndoles, una vez que tenían más seguridad sobre qué se trataba, replicarlo.
+ Y así fue como nos fuimos metiendo, invitándolos a colaborar en nuestros artículos y luego proponiéndoles, una vez que tenían más seguridad sobre qué se trataba, replicarlo.
+ Y así fue como nos fuimos metiendo, invitándolos a colaborar en nuestros artículos y luego proponiéndoles, una vez que tenían más seguridad sobre qué se trataba, replicarlo.
+ Y así fue como nos fuimos metiendo, invitándolos a colaborar en nuestros artículos y luego proponiéndoles, una vez que tenían más seguridad sobre qué se trataba, replicarlo.
+ Y así fue como nos fuimos metiendo, invitándolos a colaborar en nuestros artículos y luego proponiéndoles, una vez que tenían más seguridad sobre qué se trataba, replicarlo.
+ Y así fue como nos fuimos metiendo, invitándolos a colaborar en nuestros artículos y luego proponiéndoles, una vez que tenían más seguridad sobre qué se trataba, replicarlo.
+ Y así fue como nos fuimos metiendo, invitándolos a colaborar en nuestros artículos y luego proponiéndoles, una vez que tenían más seguridad sobre qué se trataba, replicarlo.
+ Y así fue como nos fuimos metiendo, invitándolos a colaborar en nuestros artículos y luego proponiéndoles, una vez que tenían más seguridad sobre qué se trataba, replicarlo.
+ Y así fue como nos fuimos metiendo, invitándolos a colaborar en nuestros artículos y luego proponiéndoles, una vez que tenían más seguridad sobre qué se trataba, replicarlo.
+ Y así fue como nos fuimos metiendo, invitándolos a colaborar en nuestros artículos y luego proponiéndoles, una vez que tenían más seguridad sobre qué se trataba, replicarlo.
+ Y así fue como nos fuimos metiendo, invitándolos a colaborar en nuestros artículos y luego proponiéndoles, una vez que tenían más seguridad sobre qué se trataba, replicarlo.
+ Y así fue como nos fuimos metiendo, invitándolos a colaborar en nuestros artículos y luego proponiéndoles, una vez que tenían más seguridad sobre qué se trataba, replicarlo.
+ Y así fue como nos fuimos metiendo, invitándolos a colaborar en nuestros artículos y luego proponiéndoles, una vez que tenían más seguridad sobre qué se trataba, replicarlo.
+ Y así fue como nos fuimos metiendo, invitándolos a colaborar en nuestros artículos y luego proponiéndoles, una vez que tenían más seguridad sobre qué se trataba, replicarlo.
+ Y así fue como nos fuimos metiendo, invitándolos a colaborar en nuestros artículos y luego proponiéndoles, una vez que tenían más seguridad sobre qué se trataba, replicarlo.
+ Y así fue como nos fuimos metiendo, invitándolos a colaborar en nuestros artículos y luego proponiéndoles, una vez que tenían más seguridad sobre qué se trataba, replicarlo.
+ Y así fue como nos fuimos metiendo, invitándolos a colaborar en nuestros artículos y luego proponiéndoles, una vez que tenían más seguridad sobre qué se trataba, replicarlo.
+ Y así fue como nos fuimos metiendo, invitándolos a colaborar en nuestros artículos y luego proponiéndoles, una vez que tenían más seguridad sobre qué se trataba, replicarlo.
+ Y así fue como nos fuimos metiendo, invitándolos a colaborar en nuestros artículos y luego proponiéndoles, una vez que tenían más seguridad sobre qué se trataba, replicarlo.
+ Y así fue como nos fuimos metiendo, invitándolos a colaborar en nuestros artículos y luego proponiéndoles, una vez que tenían más seguridad sobre qué se trataba, replicarlo.
+ Y así fue como nos fuimos metiendo, invitándolos a colaborar en nuestros artículos y luego proponiéndoles, una vez que tenían más seguridad sobre qué se trataba, replicarlo.
+ Y así fue como nos fuimos metiendo, invitándolos a colaborar en nuestros artículos y luego proponiéndoles, una vez que tenían más seguridad sobre qué se trataba, replicarlo.
+ Y así fue como nos fuimos metiendo, invitándolos a colaborar en nuestros artículos y luego proponiéndoles, una vez que tenían más seguridad sobre qué se trataba, replicarlo.
+ Y así fue como nos fuimos metiendo, invitándolos a colaborar en nuestros artículos y luego proponiéndoles, una vez que tenían más seguridad sobre qué se trataba, replicarlo.
+ Y así fue como nos fuimos metiendo, invitándolos a colaborar en nuestros artículos y luego proponiéndoles, una vez que tenían más seguridad sobre qué se trataba, replicarlo.
+ Y así fue como nos fuimos metiendo, invitándolos a colaborar en nuestros artículos y luego proponiéndoles, una vez que tenían más seguridad sobre qué se trataba, replicarlo.
+ Y así fue como nos fuimos metiendo, invitándolos a colaborar en nuestros artículos y luego proponiéndoles, una vez que tenían más seguridad sobre qué se trataba, replicarlo.
+ Y así fue como nos fuimos metiendo, invitándolos a colaborar en nuestros artículos y luego proponiéndoles, una vez que tenían más seguridad sobre qué se trataba, replicarlo.
+ Y así fue como nos fuimos metiendo, invitándolos a colaborar en nuestros artículos y luego proponiéndoles, una vez que tenían más seguridad sobre qué se trataba, replicarlo.
+ Y así fue como nos fuimos metiendo, invitándolos a colaborar en nuestros artículos y luego proponiéndoles, una vez que tenían más seguridad sobre qué se trataba, replicarlo.
+ Y así fue como nos fuimos metiendo, invitándolos a colaborar en nuestros artículos y luego proponiéndoles, una vez que tenían más seguridad sobre qué se trataba, replicarlo.
+ Y así fue como nos fuimos metiendo, invitándolos a colaborar en nuestros artículos y luego proponiéndoles, una vez que tenían más seguridad sobre qué se trataba, replicarlo.
+ Y así fue como nos fuimos metiendo, invitándolos a colaborar en nuestros artículos y luego proponiéndoles, una vez que tenían más seguridad sobre qué se trataba, replicarlo.
+ Y así fue como nos fuimos metiendo, invitándolos a colaborar en nuestros artículos y luego proponiéndoles, una vez que tenían más seguridad sobre qué se trataba, replicarlo.
+ Y así fue como nos fuimos metiendo, invitándolos a colaborar en nuestros artículos y luego proponiéndoles, una vez que tenían más seguridad sobre qué se trataba, replicarlo.
+ Y así fue como nos fuimos metiendo, invitándolos a colaborar en nuestros artículos y luego proponiéndoles, una vez que tenían más seguridad sobre qué se trataba, replicarlo.
+ Y así fue como nos fuimos metiendo, invitándolos a colaborar en nuestros artículos y luego proponiéndoles, una vez que tenían más seguridad sobre qué se trataba, replicarlo.
+ Y así fue como nos fuimos metiendo, invitándolos a colaborar en nuestros artículos y luego proponiéndoles, una vez que tenían más seguridad sobre qué se trataba, replicarlo.
+ Y sobre todo cuando es una empresa que no ha sido incubada o nacido en sus centros.
+ Y así fue como nos fuimos metiendo, invitándolos a colaborar en nuestros artículos y luego proponiéndoles, una vez que tenían más seguridad sobre qué se trataba, replicarlo.
+ Y así fue como nos fuimos metiendo, invitándolos a colaborar en nuestros artículos y luego proponiéndoles, una vez que tenían más seguridad sobre qué se trataba, replicarlo.
+ Y así fue como nos fuimos metiendo, invitándolos a colaborar en nuestros artículos y luego proponiéndoles, una vez que tenían más seguridad sobre qué se trataba, replicarlo.
+ Y así fue como nos fuimos metiendo, invitándolos a colaborar en nuestros artículos y luego proponiéndoles, una vez que tenían más seguridad sobre qué se trataba, replicarlo.
+ Y así fue como nos fuimos metiendo, invitándolos a colaborar en nuestros artículos y luego proponiéndoles, una vez que tenían más seguridad sobre qué se trataba, replicarlo.
+ Y así fue como nos fuimos metiendo, invitándolos a colaborar en nuestros artículos y luego proponiéndoles, una vez que tenían más seguridad sobre qué se trataba, replicarlo.
+ Y así fue como nos fuimos metiendo, invitándolos a colaborar en nuestros artículos y luego proponiéndoles, una vez que tenían más seguridad sobre qué se trataba, replicarlo.
+ Y así fue como nos fuimos metiendo, invitándolos a colaborar en nuestros artículos y luego proponiéndoles, una vez que tenían más seguridad sobre qué se trataba, replicarlo.
+ Y así fue como nos fuimos metiendo, invitándolos a colaborar en nuestros artículos y luego proponiéndoles, una vez que tenían más seguridad sobre qué se trataba, replicarlo.
+ Y así fue como nos fuimos metiendo, invitándolos a colaborar en nuestros artículos y luego proponiéndoles, una vez que tenían más seguridad sobre qué se trataba, replicarlo.
+ Y así fue como nos fuimos metiendo, invitándolos a colaborar en nuestros artículos y luego proponiéndoles, una vez que tenían más seguridad sobre qué se trataba, replicarlo.
+ Y así fue como nos fuimos metiendo, invitándolos a colaborar en nuestros artículos y luego proponiéndoles, una vez que tenían más seguridad sobre qué se trataba, replicarlo.
+ Y así fue como nos fuimos metiendo, invitándolos a colaborar en nuestros artículos y luego proponiéndoles, una vez que tenían más seguridad sobre qué se trataba, replicarlo.
+ Y es un nuevo paradigma. La forma de interpretar las cosas va a cambiar. De nuevo, la combinación de métricas, de índices que uno tal vez no ve y que un mecanismo de estos o de este tipo de tecnología pueden proveer va a dar nuevos índices, nuevos feedback de cómo entretener una situación.
+ Y al fin y al cabo nos van a ayudar.
+ Y al fin y al cabo nos van a ayudar a rehacernos las preguntas. Porque siempre fue una cuestión de preguntas. La forma en que vos hagas la pregunta va a conducir a la respuesta que puedas obtener.
+ Y incluso la inteligencia artificial está funcionando. Si tu pregunta no es buena, no es concreta, la respuesta que tengas no va a ser la esperada y te va a llevar al mejor puerto.
+ Entonces, al obligarnos también a hacer las preguntas correctas y en base a lo que nos va a mostrar nuestra tecnología.
+ Haga que nos hagamos esas preguntas. Va a ser un replanteo de cómo repensamos lo que veníamos pensando. Va a ser todo por eso digo. Va a ser un cambio de paradigma que ya está. Dudo que vaya para atrás. Así que hay que tratar de sacarle el mejor provecho posible.
+ Gracias.
+ Tiene que visualizar quién realmente puede ayudarlo a avanzar en eso. Y eso se logra a veces viendo quiénes lo están haciendo. Consultar a los que lo hacen, plantearles qué se puede hacer, qué no, cómo lo harían y seguir adelante.
+ Porque es una frase que es súper obvia pero...
+ Pero es muy representativa de una startup o de este tipo de cosas. El peor enemigo de una startup o de una idea novedosa es el tiempo.
+ Entonces, cuanto más tiempo tarden en comenzar a desarrollar esa idea o avanzar en el producto que tienen en mente, más van a perder y menos chances de hacerlo.
+ Así que tomar coraje e ir al lugar indicado. Y eso se logra preguntando y viendo quién está desarrollando y cómo lo hacen.
+ Por favor, el agradecido soy yo y ojalá que le sea útil a alguien y sea un disparador para cosas nuevas.
+ Gracias.

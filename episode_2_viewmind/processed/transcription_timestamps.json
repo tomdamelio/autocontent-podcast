@@ -1,0 +1,2182 @@
+[
+  {
+    "start": 0.0,
+    "end": 7.36,
+    "text": " Bueno, hola a todos y bienvenidos a Neuro Startups, el podcast donde exploramos las"
+  },
+  {
+    "start": 7.36,
+    "end": 12.1,
+    "text": " \u00faltimas innovaciones en el \u00e1mbito neurotech. Soy Tom\u00e1s D'Amelio y hoy tengo el gusto"
+  },
+  {
+    "start": 12.1,
+    "end": 18.2,
+    "text": " de presentarles a Gerardo Fern\u00e1ndez, fundador y director cient\u00edfico de Viewmind. Bienvenido"
+  },
+  {
+    "start": 18.2,
+    "end": 24.04,
+    "text": " Gerardo, es un placer tenerte en Neuro Startups. Muchas gracias, el placer es m\u00edo y muy agradecido"
+  },
+  {
+    "start": 24.04,
+    "end": 33.16,
+    "text": " por la invitaci\u00f3n. Por favor. Gerardo, \u00bfqu\u00e9 es Viewmind? Viewmind es una empresa de base"
+  },
+  {
+    "start": 33.16,
+    "end": 41.72,
+    "text": " tecnol\u00f3gica que a trav\u00e9s de los movimientos oculares que ejecute una persona accede a"
+  },
+  {
+    "start": 41.72,
+    "end": 49.36,
+    "text": " procesos cognitivos y partes del cerebro vinculadas a esos procesos. As\u00ed que de esa forma, a trav\u00e9s"
+  },
+  {
+    "start": 49.36,
+    "end": 56.96,
+    "text": " de los ojos podemos evaluar si hay alteraciones tanto cognitivas como anat\u00f3micas en el cerebro."
+  },
+  {
+    "start": 58.2,
+    "end": 65.64,
+    "text": " Bueno, genial. Y yo entiendo que esta compa\u00f1\u00eda surge de desarrollo de investigaciones que vos"
+  },
+  {
+    "start": 65.64,
+    "end": 71.2,
+    "text": " ven\u00edas haciendo con el paso del tiempo, \u00bfverdad? \u00bfTus inicios eran de investigador, eso es as\u00ed?"
+  },
+  {
+    "start": 71.2,
+    "end": 83.8,
+    "text": " S\u00ed, fui investigador freelance durante unos cuantos a\u00f1os y luego apliqu\u00e9 a carrera con"
+  },
+  {
+    "start": 83.8,
+    "end": 92.24000000000001,
+    "text": " IZET y entr\u00e9 como investigador, pero a su vez eso vendr\u00eda a ser la \u00faltima etapa. La primera etapa"
+  },
+  {
+    "start": 92.24000000000001,
+    "end": 101.0,
+    "text": " estuve viviendo en Alemania y en Reino Unido, en lugares especializados en lo que son movimientos"
+  },
+  {
+    "start": 101.0,
+    "end": 106.52,
+    "text": " oculares y cognici\u00f3n, fui incorporando las herramientas que me permit\u00edan justamente vincular"
+  },
+  {
+    "start": 106.52,
+    "end": 115.4,
+    "text": " los ojos con el cerebro y la mente y poder entender qu\u00e9 pasa cuando una persona no procesa bien la"
+  },
+  {
+    "start": 115.4,
+    "end": 123.12,
+    "text": " informaci\u00f3n visual, qu\u00e9 implicancias tiene la memoria, la velocidad de procesamiento y dem\u00e1s"
+  },
+  {
+    "start": 123.12,
+    "end": 129.64,
+    "text": " capacidades cognitivas. Es decir que si bien el comienzo fue como investigador, era un investigador"
+  },
+  {
+    "start": 129.64,
+    "end": 138.0,
+    "text": " un tanto informal buscando algunos lineamientos que me pudiesen encontrar esta vinculaci\u00f3n entre"
+  },
+  {
+    "start": 138.0,
+    "end": 145.6,
+    "text": " movimientos oculares, cognici\u00f3n y cerebro. \u00bfY por qu\u00e9 los ojos para entender la salud cerebral?"
+  },
+  {
+    "start": 145.6,
+    "end": 154.48,
+    "text": " Porque los ojos son uno de los, si no, menos en nuestra cultura occidental m\u00e1s desarrollado,"
+  },
+  {
+    "start": 154.48,
+    "end": 162.76,
+    "text": " casi todo lo que nosotros incorporamos lo hacemos en primer lugar y damos m\u00e1s cr\u00e9dito a lo que vemos"
+  },
+  {
+    "start": 162.76,
+    "end": 173.23999999999998,
+    "text": " que a lo que escuchamos o tocamos o olemos y digamos eso desde un aspecto cultural y desde un"
+  },
+  {
+    "start": 173.23999999999998,
+    "end": 182.28,
+    "text": " aspecto biol\u00f3gico el ojo es parte del sistema nervioso central entonces vendr\u00eda a ser un \u00f3rgano"
+  },
+  {
+    "start": 182.28,
+    "end": 189.84,
+    "text": " que nos permite acceder con muy poco ruido al funcionamiento del cerebro. Distinto es el tacto,"
+  },
+  {
+    "start": 189.84,
+    "end": 198.36,
+    "text": " el olfato, el centro de procesamiento particular, la audici\u00f3n que tienen intermediarias digamos entre"
+  },
+  {
+    "start": 198.36,
+    "end": 207.0,
+    "text": " la se\u00f1al que se produce por alg\u00fan objeto y c\u00f3mo el cerebro la procesa. Simplemente desde que"
+  },
+  {
+    "start": 207.0,
+    "end": 214.72,
+    "text": " entra un fot\u00f3n en la retina y ah\u00ed empieza todo el procesamiento. Es un \u00f3rgano que nos da informaci\u00f3n"
+  },
+  {
+    "start": 214.72,
+    "end": 221.8,
+    "text": " muy limpia y nos permite acceder de forma directa al cerebro. Y tengo una pregunta"
+  },
+  {
+    "start": 221.8,
+    "end": 228.6,
+    "text": " profundizando un poco sobre esto \u00bfcu\u00e1les fueron esas primeras investigaciones que les permiti\u00f3 decir"
+  },
+  {
+    "start": 228.6,
+    "end": 233.36,
+    "text": " bueno ac\u00e1 hay algo profundicemos que tal vez pueda haber una transferencia hacia algo aplicado?"
+  },
+  {
+    "start": 233.36,
+    "end": 244.88000000000002,
+    "text": " En primer lugar siempre el objetivo fue entender c\u00f3mo funciona el cerebro, c\u00f3mo funciona tambi\u00e9n"
+  },
+  {
+    "start": 244.88000000000002,
+    "end": 255.76000000000002,
+    "text": " la cognici\u00f3n. Entonces y teniendo en cuenta esto de la visi\u00f3n de qu\u00e9 forma se pod\u00eda integrar la"
+  },
+  {
+    "start": 255.76000000000002,
+    "end": 262.72,
+    "text": " exploraci\u00f3n visual sobre im\u00e1genes espec\u00edficas porque obviamente cada imagen va a activar"
+  },
+  {
+    "start": 262.72,
+    "end": 268.72,
+    "text": " distintas partes del cerebro y sobre todo basados en la instrucci\u00f3n que es la persona. Si una persona"
+  },
+  {
+    "start": 268.72,
+    "end": 276.16,
+    "text": " demuestra una figura y dice bueno y en esa figura supongamos una foto que hay persona y le dice bueno"
+  },
+  {
+    "start": 276.16,
+    "end": 282.12,
+    "text": " contar cu\u00e1ntas personas hay en esta foto ese conteo va a hacer que los ojos busquen algo si"
+  },
+  {
+    "start": 282.12,
+    "end": 288.52000000000004,
+    "text": " le pregunta bueno qu\u00e9 distancia hay entre ellos va a buscar otra cosa la altura de cada persona es"
+  },
+  {
+    "start": 288.52,
+    "end": 296.24,
+    "text": " otra la edad es otra cada indicaci\u00f3n que se lo cada tarea que se le da a la persona va a requerir"
+  },
+  {
+    "start": 296.24,
+    "end": 299.88,
+    "text": " de una b\u00fasqueda visual que va a tener por detr\u00e1s"
+  },
+  {
+    "start": 300.0,
+    "end": 307.28,
+    "text": " un objetivo y esa b\u00fasqueda visual se va a ver reflejada en la forma en que los ojos buscan esa"
+  },
+  {
+    "start": 307.28,
+    "end": 314.92,
+    "text": " informaci\u00f3n, en una tarea particular. Entonces, en este sentido empez\u00f3 como una cuesti\u00f3n de"
+  },
+  {
+    "start": 314.92,
+    "end": 320.56,
+    "text": " todo el tiempo estamos explorando cosas, esa exploraci\u00f3n no es arbitraria sino que responde"
+  },
+  {
+    "start": 320.56,
+    "end": 327.4,
+    "text": " a objetivos, esos objetivos tienen detr\u00e1s indicaciones que b\u00e1sicamente es responder"
+  },
+  {
+    "start": 327.4,
+    "end": 332.64,
+    "text": " una pregunta, qu\u00e9 es lo que estoy buscando y por qu\u00e9 y para que todo eso se logre tiene que haber"
+  },
+  {
+    "start": 332.64,
+    "end": 339.8,
+    "text": " detr\u00e1s un sistema cognitivo que funcione bien, una memoria, una atenci\u00f3n, una concentraci\u00f3n,"
+  },
+  {
+    "start": 339.8,
+    "end": 345.76,
+    "text": " una velocidad de procesamiento. Entonces, bueno, la idea de a poquito fue tratar de integrar todo"
+  },
+  {
+    "start": 345.76,
+    "end": 350.92,
+    "text": " esto y entender cuando vemos algo qu\u00e9 es lo que pasa y por qu\u00e9 lo procesamos como lo procesamos."
+  },
+  {
+    "start": 350.92,
+    "end": 356.92,
+    "text": " Y particularmente en un momento hace unos a\u00f1os atr\u00e1s, debe estar circulando pero unos a\u00f1os"
+  },
+  {
+    "start": 356.92,
+    "end": 365.76,
+    "text": " atr\u00e1s, estoy refiriendo unos 20 a\u00f1os atr\u00e1s, se hizo muy popular un texto, un p\u00e1rrafo donde ten\u00eda"
+  },
+  {
+    "start": 365.76,
+    "end": 376.48,
+    "text": " las letras de las palabras cambiadas de lugar o con palabras faltantes, entonces lo que planteaba"
+  },
+  {
+    "start": 376.48,
+    "end": 382.32,
+    "text": " la consignada es que si usted puede leer esto entonces no tiene Alzheimer. Ese fue un poco el"
+  },
+  {
+    "start": 382.32,
+    "end": 391.68,
+    "text": " disparador, la curiosidad de qu\u00e9 hay detr\u00e1s de esto, c\u00f3mo interpretamos, c\u00f3mo vamos llenando"
+  },
+  {
+    "start": 391.68,
+    "end": 399.72,
+    "text": " letras en palabras que no est\u00e1n y c\u00f3mo a trav\u00e9s de un contexto le podemos dar sentido a cada palabra."
+  },
+  {
+    "start": 399.72,
+    "end": 404.28,
+    "text": " Ese fue un poco el disparador, si bien ven\u00eda trabajando en toda la percepci\u00f3n visual porque"
+  },
+  {
+    "start": 404.28,
+    "end": 411.12,
+    "text": " siempre me interes\u00f3, ese fue el disparador para vincular la percepci\u00f3n visual con procesos m\u00e1s"
+  },
+  {
+    "start": 411.12,
+    "end": 417.36,
+    "text": " complejos como se dan en la lectura. Y detr\u00e1s de eso, si era el Alzheimer, lo que hab\u00eda detr\u00e1s,"
+  },
+  {
+    "start": 417.36,
+    "end": 422.2,
+    "text": " entonces la memoria obviamente estaba involucrada, la predicci\u00f3n de palabras entrantes, ya que vamos"
+  },
+  {
+    "start": 422.2,
+    "end": 430.92,
+    "text": " leyendo el texto, y una de las formas que se me ocurri\u00f3 de chequear qu\u00e9 es lo que hace realmente"
+  },
+  {
+    "start": 430.92,
+    "end": 435.84000000000003,
+    "text": " la persona cuando busca la informaci\u00f3n y va completando de lo que no hay, d\u00f3nde se fija,"
+  },
+  {
+    "start": 435.84000000000003,
+    "end": 441.28,
+    "text": " si hay un contexto, c\u00f3mo va tomando las palabras dentro de ese contexto para darle sentido a ese"
+  },
+  {
+    "start": 441.28,
+    "end": 450.28,
+    "text": " p\u00e1rrafo y poder cambiar s\u00edmbolos a veces arbitrarios por palabras concretas. \u00bfHabr\u00e1 alguna t\u00e9cnica que"
+  },
+  {
+    "start": 450.28,
+    "end": 457.52,
+    "text": " me permita medir c\u00f3mo es la exploraci\u00f3n visual? S\u00ed. \u00bfCu\u00e1l es esa t\u00e9cnica? Hay tracking. Y ah\u00ed es donde"
+  },
+  {
+    "start": 458.48,
+    "end": 467.64,
+    "text": " digamos me pregunt\u00e9, bueno, \u00bfesto d\u00f3nde se hace? Estoy hablando del a\u00f1o 2004-2005. Ac\u00e1 en Argentina"
+  },
+  {
+    "start": 467.64,
+    "end": 472.56,
+    "text": " a\u00fan no hab\u00eda ning\u00fan eye tracker, el primero seg\u00fan el 2008 m\u00e1s o menos con Mariano Sigmann,"
+  },
+  {
+    "start": 472.56,
+    "end": 479.20000000000005,
+    "text": " que fui a trabajar ah\u00ed al laboratorio de \u00e9l, y me empec\u00e9 a contactar con otras personas que estaban"
+  },
+  {
+    "start": 479.20000000000005,
+    "end": 485.8,
+    "text": " trabajando, no en esto concreto, pero s\u00ed en la visualizaci\u00f3n de im\u00e1genes y tambi\u00e9n un poco de"
+  },
+  {
+    "start": 485.8,
+    "end": 491.88,
+    "text": " lectura, pero no con estos procesos o tratando de entender c\u00f3mo una persona, qu\u00e9 pasaba cuando"
+  },
+  {
+    "start": 491.88,
+    "end": 499.52,
+    "text": " una persona no pod\u00eda interpretarlo, qu\u00e9 estaba funcionando por detr\u00e1s. Y en este sentido, para"
+  },
+  {
+    "start": 499.52,
+    "end": 507.12,
+    "text": " testear esto, es que constru\u00ed el primer conjunto de oraciones en espa\u00f1ol, b\u00e1sicamente donde"
+  },
+  {
+    "start": 507.12,
+    "end": 514.28,
+    "text": " pod\u00eda medir todo lo que era predictibilidad, sem\u00e1ntica y dem\u00e1s, y la forma de chequearlo,"
+  },
+  {
+    "start": 514.28,
+    "end": 521.04,
+    "text": " que digamos si era cierto eso que una persona con Alzheimer no lo pod\u00eda leer, fue involucrarme a un"
+  },
+  {
+    "start": 521.04,
+    "end": 528.56,
+    "text": " hospital que ten\u00eda obviamente pacientes con Alzheimer, leve, y empezar a ver qu\u00e9 hac\u00edan esos"
+  },
+  {
+    "start": 528.56,
+    "end": 534.36,
+    "text": " pacientes con Alzheimer cuando le\u00edan estas oraciones y qu\u00e9 hac\u00edan las personas, digamos, sanas. Y ah\u00ed"
+  },
+  {
+    "start": 534.36,
+    "end": 540.0,
+    "text": " empec\u00e9 a encontrar estos patrones de b\u00fasqueda visual, p\u00e9rdida de sentido, falta de atenci\u00f3n,"
+  },
+  {
+    "start": 540.2,
+    "end": 545.76,
+    "text": " de concentraci\u00f3n, problemas sobre todo en la memoria de trabajo y dem\u00e1s. As\u00ed que fue un proceso"
+  },
+  {
+    "start": 545.76,
+    "end": 553.28,
+    "text": " tal vez disparado por este texto, obviamente estaba un poco en contexto, pero este texto fue lo que"
+  },
+  {
+    "start": 553.28,
+    "end": 558.8399999999999,
+    "text": " dispar\u00f3, bueno, qu\u00e9 procesos habr\u00e1n detr\u00e1s de esto y realmente ser\u00e1 Alzheimer lo que nos deja leer,"
+  },
+  {
+    "start": 558.8399999999999,
+    "end": 565.96,
+    "text": " ser\u00e1 la memoria, ser\u00e1 otra cosa, ser\u00e1 un bajo \u00edndice de lectura y dem\u00e1s cosas que fueron,"
+  },
+  {
+    "start": 565.96,
+    "end": 571.24,
+    "text": " digamos, los disparadores de esto que inici\u00f3, bien digo, en el 2004."
+  },
+  {
+    "start": 572.3199999999999,
+    "end": 577.76,
+    "text": " Si entiendo bien, todo este tipo de investigaciones fueron dando las primeras se\u00f1ales, si se quiere"
+  },
+  {
+    "start": 577.76,
+    "end": 584.44,
+    "text": " capaz m\u00e1s modo de prueba de concepto, de que ah\u00ed hab\u00eda algo, \u00bfno? Pero c\u00f3mo se pasa de eso a un"
+  },
+  {
+    "start": 584.44,
+    "end": 590.64,
+    "text": " producto. De eso a un producto se pasa con financiaci\u00f3n. Entonces bueno, nosotros ten\u00edamos"
+  },
+  {
+    "start": 590.64,
+    "end": 598.72,
+    "text": " esta idea y aplicamos desde la academia, aplicamos a un PICT."
+  },
+  {
+    "start": 600.0,
+    "end": 608.08,
+    "text": " startup que no nos dieron. Pero hubo una segunda alternativa porque ya, digamos, no hab\u00eda"
+  },
+  {
+    "start": 608.08,
+    "end": 612.76,
+    "text": " chances de no desarrollarlo. Ya hab\u00eda decidido que esto hab\u00eda que desarrollarlo, ten\u00edamos buenos"
+  },
+  {
+    "start": 612.76,
+    "end": 617.16,
+    "text": " resultados. Obviamente no ten\u00edamos miles de personas evaluadas, pero ten\u00edamos la suficiente"
+  },
+  {
+    "start": 617.16,
+    "end": 624.72,
+    "text": " como para suscitar el inter\u00e9s de seguir avanzando. Ten\u00edamos lo que vos denominaste como una se\u00f1al,"
+  },
+  {
+    "start": 624.72,
+    "end": 635.0,
+    "text": " una se\u00f1al, una tendencia a algo que parec\u00eda plausible. Y apliqu\u00e9 a un fondo en Alemania,"
+  },
+  {
+    "start": 635.0,
+    "end": 641.96,
+    "text": " digamos, un fondo de desarrollo y cuando apliqu\u00e9 a eso, medio de casualidad,"
+  },
+  {
+    "start": 643.12,
+    "end": 648.24,
+    "text": " conoc\u00ed a una persona del grupo empresarial Sankor que tiene un..."
+  },
+  {
+    "start": 648.24,
+    "end": 659.52,
+    "text": " Fue el primer a\u00f1o de gesti\u00f3n de incubaci\u00f3n de startups que se llama CITES. Conoc\u00ed a uno"
+  },
+  {
+    "start": 659.52,
+    "end": 663.48,
+    "text": " que en ese momento era uno de los representantes de ellos, Gerardo Marchesini, y hablando con \u00e9l"
+  },
+  {
+    "start": 663.48,
+    "end": 670.28,
+    "text": " de forma muy informal me dice, mira, nosotros estamos lanzando un programa, yo soy uno de"
+  },
+  {
+    "start": 670.28,
+    "end": 677.08,
+    "text": " los coordinadores y estar\u00eda muy bueno que pueda presentar una prueba de concepto y si vemos que"
+  },
+  {
+    "start": 677.08,
+    "end": 682.56,
+    "text": " es viable, vamos a tratar de financiarlo. Hacemos un mentoreo, hacemos una incubaci\u00f3n,"
+  },
+  {
+    "start": 682.56,
+    "end": 687.48,
+    "text": " la mejoramos. Esto siempre tiene que tener una propiedad intelectual detr\u00e1s,"
+  },
+  {
+    "start": 687.48,
+    "end": 695.16,
+    "text": " un know-how claro y tiene que ser escalable. Y bueno, y aplicamos una semana porque el deadline"
+  },
+  {
+    "start": 695.16,
+    "end": 703.12,
+    "text": " estaba ah\u00ed y nos convocaron y empez\u00f3 un proceso de incubaci\u00f3n con ellos donde empezamos a entender"
+  },
+  {
+    "start": 703.12,
+    "end": 710.56,
+    "text": " m\u00e1s nuestra idea como algo que ten\u00eda que, como vos dec\u00edas, llegar a un producto, algo que ten\u00eda"
+  },
+  {
+    "start": 710.56,
+    "end": 716.6800000000001,
+    "text": " que ser vendible, ten\u00eda que ser escalable, ten\u00eda que ser innovador y sobre todo ten\u00eda que resolver"
+  },
+  {
+    "start": 716.6800000000001,
+    "end": 725.92,
+    "text": " un problema. Entonces tuvimos que pensar ya desde el vamos, desde una posici\u00f3n comercial m\u00e1s que"
+  },
+  {
+    "start": 725.92,
+    "end": 734.2,
+    "text": " netamente acad\u00e9mica y ese usuario potencial que eventualmente alg\u00fan momento pod\u00eda estar ya"
+  },
+  {
+    "start": 734.2,
+    "end": 741.72,
+    "text": " ten\u00eda que existir dentro de este modelo y bueno fue cuesti\u00f3n de ir aprendiendo todo este sistema,"
+  },
+  {
+    "start": 741.72,
+    "end": 748.76,
+    "text": " aprender este sistema emprendedor y ir modificando un poquito la mentalidad de mantenerse enfocado"
+  },
+  {
+    "start": 748.76,
+    "end": 755.88,
+    "text": " en aquello que ten\u00eda sentido para llegar a un producto vendible. Fue un proceso digamos que"
+  },
+  {
+    "start": 755.88,
+    "end": 763.44,
+    "text": " tuvo que aprender, aprender c\u00f3mo proponerlo, aprender a escribir la propiedad intelectual de"
+  },
+  {
+    "start": 763.44,
+    "end": 771.12,
+    "text": " forma que sea probada no s\u00f3lo en Argentina sino en distintas partes porque desde el d\u00eda 1 el"
+  },
+  {
+    "start": 771.12,
+    "end": 777.4,
+    "text": " objetivo no era hacer una Pymes sino hacer una empresa internacional. Entonces de nuevo desde el"
+  },
+  {
+    "start": 777.4,
+    "end": 782.4,
+    "text": " inicio el objetivo era hacer las cosas lo suficientemente robustas como para que sean"
+  },
+  {
+    "start": 782.4,
+    "end": 788.0,
+    "text": " escalables. Habr\u00e1s en, noto que est\u00e1s hablando en plural, como que hab\u00eda un equipo fundador,"
+  },
+  {
+    "start": 788.0,
+    "end": 797.28,
+    "text": " quienes formaban parte de ese equipo inicialmente? \u00c9ramos distintos investigadores de CONICET y de"
+  },
+  {
+    "start": 797.28,
+    "end": 803.6800000000001,
+    "text": " la Universidad Nacional del Sur y un m\u00e9dico psiquiatra inicialmente con el que trabaj\u00e1bamos,"
+  },
+  {
+    "start": 803.96,
+    "end": 812.6,
+    "text": " Osvaldo Gammenoni, David Orozco, Pablo Mandoles y Albano Laillupa que fue el grupo fundador,"
+  },
+  {
+    "start": 812.6,
+    "end": 822.56,
+    "text": " pero una vez que se incorpora CITES como inversor nos plantea armar justamente un equipo que permita"
+  },
+  {
+    "start": 822.56,
+    "end": 833.12,
+    "text": " escalar esa tecnolog\u00eda y un equipo que se radique en Santa Fe. Entonces bueno era todo un desaf\u00edo,"
+  },
+  {
+    "start": 833.12,
+    "end": 840.08,
+    "text": " que no es nada no es nada descabellado porque cada vez que nos hemos encontrado con un inversor nos"
+  },
+  {
+    "start": 840.08,
+    "end": 849.04,
+    "text": " pide que nos mudemos al lugar donde est\u00e1 el inversor porque hay otros grupos desarrollando,"
+  },
+  {
+    "start": 849.04,
+    "end": 855.4,
+    "text": " se crea una sinergia de equipo, una sinergia de lo que se llama la m\u00e1quina de caf\u00e9 donde uno"
+  },
+  {
+    "start": 855.4,
+    "end": 862.24,
+    "text": " conversa intercambia ideas y hace que digamos que se pueda concentrar m\u00e1s y tener una visi\u00f3n en"
+  },
+  {
+    "start": 862.24,
+    "end": 868.52,
+    "text": " com\u00fan de c\u00f3mo desarrollar algo. As\u00ed que por eso habl\u00f3 un pasado porque una vez que CITES invierte"
+  },
+  {
+    "start": 868.52,
+    "end": 878.12,
+    "text": " bueno se reconfigura el equipo e se incorporan miembros que traen ellos para justamente hacer"
+  },
+  {
+    "start": 878.12,
+    "end": 887.86,
+    "text": " de esta idea conceptual un producto. Y en ese caso qu\u00e9 tipo de perfiles se fueron incorporando al equipo?"
+  },
+  {
+    "start": 887.86,
+    "end": 899.98,
+    "text": " perfiles de desarrollo y perfiles t\u00e9cnicos b\u00e1sicamente porque lo que hacemos nosotros es software"
+  },
+  {
+    "start": 900.0,
+    "end": 910.72,
+    "text": " pero es un software que tiene que ser lo suficientemente robusto como para que puede ir migrando en distintos hardware,"
+  },
+  {
+    "start": 910.72,
+    "end": 917.08,
+    "text": " en este caso en distintos eye trackers, sin tener ning\u00fan tipo de creceo,"
+  },
+  {
+    "start": 917.08,
+    "end": 918.52,
+    "text": " o sea, tiene que funcionar siempre."
+  },
+  {
+    "start": 918.52,
+    "end": 925.88,
+    "text": " Entonces, hacer un sistema lo suficientemente robusto y que sea independiente del equipo que se use,"
+  },
+  {
+    "start": 926.44,
+    "end": 931.44,
+    "text": " requiri\u00f3 contratar personas que eran id\u00f3neas, obviamente,"
+  },
+  {
+    "start": 931.44,
+    "end": 938.4,
+    "text": " y esas personas id\u00f3neas en parte fueron las que pudimos contratar con la financiaci\u00f3n de sites,"
+  },
+  {
+    "start": 938.4,
+    "end": 944.16,
+    "text": " y tambi\u00e9n incorporamos a un SEO que vino con ellos,"
+  },
+  {
+    "start": 944.16,
+    "end": 954.68,
+    "text": " y tambi\u00e9n incorporamos a profesionales vinculados con log\u00edstica,"
+  },
+  {
+    "start": 954.68,
+    "end": 960.12,
+    "text": " vinculados con entradas en hospitales m\u00e1s grandes de capital e incluso algunos del Mercosur,"
+  },
+  {
+    "start": 960.12,
+    "end": 967.12,
+    "text": " o sea, se incorpor\u00f3 gente que pod\u00eda hacer que ese producto vaya creciendo y sea robusto."
+  },
+  {
+    "start": 968.08,
+    "end": 971.64,
+    "text": " \u00bfC\u00f3mo fue ese cambio en la modalidad de trabajo,"
+  },
+  {
+    "start": 971.64,
+    "end": 974.52,
+    "text": " viniendo tal vez de un lado m\u00e1s de research de investigaci\u00f3n,"
+  },
+  {
+    "start": 974.52,
+    "end": 978.52,
+    "text": " hacia un campo m\u00e1s de startup o de desarrollo tecnol\u00f3gico?"
+  },
+  {
+    "start": 979.36,
+    "end": 990.0,
+    "text": " Querido y esperado, porque desde el inicio el objetivo era obtener un producto que sea usable,"
+  },
+  {
+    "start": 990.0,
+    "end": 993.52,
+    "text": " que satisfaga una necesidad que no estaba cubierta."
+  },
+  {
+    "start": 993.52,
+    "end": 1002.8,
+    "text": " B\u00e1sicamente, que podamos proveer una herramienta que permita medir de forma robusta, aguda y muy sensible"
+  },
+  {
+    "start": 1002.8,
+    "end": 1007.92,
+    "text": " deterioro cognitivo y alteraciones en cierto circuito cerebral."
+  },
+  {
+    "start": 1007.92,
+    "end": 1014.56,
+    "text": " As\u00ed que fue s\u00faper bienvenida porque era obvio que necesit\u00e1bamos esa financiaci\u00f3n"
+  },
+  {
+    "start": 1014.56,
+    "end": 1020.88,
+    "text": " y era obvio que necesit\u00e1bamos un equipo que nos lleve a la creaci\u00f3n de ese producto."
+  },
+  {
+    "start": 1021.04,
+    "end": 1027.84,
+    "text": " O sea que era algo bienvenido y bueno, como dec\u00eda antes, si no era ac\u00e1 iba a ser afuera,"
+  },
+  {
+    "start": 1027.84,
+    "end": 1031.84,
+    "text": " pero en alg\u00fan lugar \u00edbamos a hacer ese desarrollo."
+  },
+  {
+    "start": 1032.84,
+    "end": 1036.16,
+    "text": " Mencionabas que luego de que recibieron esa primera inversi\u00f3n"
+  },
+  {
+    "start": 1036.16,
+    "end": 1040.24,
+    "text": " y como parte tambi\u00e9n de ese networking propio del proceso de incubaci\u00f3n,"
+  },
+  {
+    "start": 1040.24,
+    "end": 1043.88,
+    "text": " empezaron a tener tambi\u00e9n contactos con hospitales, centros de salud."
+  },
+  {
+    "start": 1043.88,
+    "end": 1050.04,
+    "text": " \u00bfC\u00f3mo se dan esas colaboraciones y c\u00f3mo se alinean incentivos con esos nuevos players que se van incorporando?"
+  },
+  {
+    "start": 1051.88,
+    "end": 1059.84,
+    "text": " Nosotros desde que nos involucramos con CITES y su grupo de asesores,"
+  },
+  {
+    "start": 1059.84,
+    "end": 1067.44,
+    "text": " y bueno, con CITES tambi\u00e9n abrieron las puertas a la industria farmac\u00e9utica"
+  },
+  {
+    "start": 1067.44,
+    "end": 1075.52,
+    "text": " porque ellos ten\u00edan acceso, ten\u00edan colaboraciones con Novartis, con Biogen y otras empresas internacionales"
+  },
+  {
+    "start": 1075.52,
+    "end": 1080.32,
+    "text": " de la industria farmac\u00e9utica, todos llegaron a un concepto com\u00fan."
+  },
+  {
+    "start": 1080.56,
+    "end": 1089.52,
+    "text": " Y era que para que una tecnolog\u00eda sea adoptada por personal de salud, que ser\u00eda nuestro caso,"
+  },
+  {
+    "start": 1089.52,
+    "end": 1095.28,
+    "text": " ten\u00eda que ser recomendada en una forma y aprobada a su vez por Key Opinion Leaders."
+  },
+  {
+    "start": 1096.24,
+    "end": 1101.84,
+    "text": " Entonces desde un inicio, de nuevo qued\u00f3 claro que lo que necesit\u00e1bamos nosotros"
+  },
+  {
+    "start": 1101.84,
+    "end": 1107.08,
+    "text": " era mostrarles nuestro desarrollo a l\u00edderes de opini\u00f3n en el \u00e1mbito"
+  },
+  {
+    "start": 1107.12,
+    "end": 1111.96,
+    "text": " y que ellos usen la tecnolog\u00eda, entiendan las bonas de la tecnolog\u00eda,"
+  },
+  {
+    "start": 1111.96,
+    "end": 1120.08,
+    "text": " qu\u00e9 soluci\u00f3n ofrece y luego la imprisen a usar en sus centros de trabajo."
+  },
+  {
+    "start": 1120.56,
+    "end": 1131.0,
+    "text": " Y es un ambiente muy... digamos, muy el estilo piramidal, es decir, donde se empieza a usar arriba, empieza a bajar."
+  },
+  {
+    "start": 1131.6399999999999,
+    "end": 1141.4,
+    "text": " Obviamente esto... era obvio que iba a llevar un buen tiempo porque no solo hab\u00eda que lograr la voluntad de estos l\u00edderes de opini\u00f3n,"
+  },
+  {
+    "start": 1141.4,
+    "end": 1147.6399999999999,
+    "text": " sino tambi\u00e9n que hab\u00eda que definir un protocolo que les sea \u00fatil a todos, tanto a ellos como a nosotros,"
+  },
+  {
+    "start": 1147.6399999999999,
+    "end": 1155.4,
+    "text": " definir los costos de hacerse el protocolo, conseguir el dinero, el tiempo, el inicio, pruebas,"
+  },
+  {
+    "start": 1155.4,
+    "end": 1158.76,
+    "text": " porque obviamente el producto fue mejorando en el tiempo"
+  },
+  {
+    "start": 1158.76,
+    "end": 1163.96,
+    "text": " y sabiendo esto, bueno, iniciamos ese camino."
+  },
+  {
+    "start": 1163.96,
+    "end": 1166.76,
+    "text": " \u00bfC\u00f3mo llegamos? A trav\u00e9s de buenas propuestas."
+  },
+  {
+    "start": 1166.76,
+    "end": 1176.68,
+    "text": " Y las buenas propuestas a los centros las tuvimos inicialmente escribiendo papers sobre los temas que est\u00e1bamos trabajando."
+  },
+  {
+    "start": 1176.68,
+    "end": 1179.8,
+    "text": " Entonces, una de las estrategias que desarrollamos fueron..."
+  },
+  {
+    "start": 1179.8,
+    "end": 1185.56,
+    "text": " Tenemos datos de personas inicialmente con... trabajamos mucho con Alzheimer's."
+  },
+  {
+    "start": 1186.52,
+    "end": 1192.92,
+    "text": " Escrib\u00edamos los papers y los invit\u00e1bamos a estas personas a participar como coautores."
+  },
+  {
+    "start": 1192.92,
+    "end": 1199.8,
+    "text": " Entonces, eso permit\u00eda, por un lado, que ellos como coautores, cuando aceptaban obviamente..."
+  },
+  {
+    "start": 1200.0,
+    "end": 1203.96,
+    "text": " lean el trabajo, le hiciesen las correcciones que creyiesen pertinentes"
+  },
+  {
+    "start": 1203.96,
+    "end": 1211.12,
+    "text": " y diecen, en algunas ocasiones, m\u00e1s estudios, m\u00e1s evaluaciones para confirmar algunas hip\u00f3tesis"
+  },
+  {
+    "start": 1211.12,
+    "end": 1216.96,
+    "text": " y una vez que ellos estaban convencidos, se abr\u00eda la puerta de, ok, entendemos c\u00f3mo funciona esto,"
+  },
+  {
+    "start": 1216.96,
+    "end": 1223.0,
+    "text": " vemos cu\u00e1l es el potencial, pero lo queremos hacer para asegurarnos que esos resultados van a dar lo mismo a nuestros laboratorios,"
+  },
+  {
+    "start": 1223.0,
+    "end": 1228.76,
+    "text": " pues nuestros hospitales, o en nuestra cl\u00ednica, o industria farmac\u00e9utica."
+  },
+  {
+    "start": 1229.72,
+    "end": 1236.72,
+    "text": " Y as\u00ed fue como nos fuimos metiendo, invit\u00e1ndolos a colaborar en nuestros art\u00edculos"
+  },
+  {
+    "start": 1236.72,
+    "end": 1243.08,
+    "text": " y luego proponi\u00e9ndoles, una vez que ten\u00edan m\u00e1s seguridad sobre qu\u00e9 se trataba,"
+  },
+  {
+    "start": 1243.08,
+    "end": 1246.68,
+    "text": " replicar los resultados anteriores en sus lugares de confianza."
+  },
+  {
+    "start": 1246.68,
+    "end": 1252.76,
+    "text": " Por eso esto requiere de un tiempo prolongado y cada vez que iniciamos nuestros procesos,"
+  },
+  {
+    "start": 1252.76,
+    "end": 1259.32,
+    "text": " estamos hablando de 5 o 6 a\u00f1os desde que empieza a gestarse este paper en colaboraci\u00f3n"
+  },
+  {
+    "start": 1259.32,
+    "end": 1266.76,
+    "text": " hasta que tenemos resultados en ese centro que queremos por ser el centro de excelencia y de referencia."
+  },
+  {
+    "start": 1268.12,
+    "end": 1274.76,
+    "text": " V\u00ed que tambi\u00e9n tienen ustedes mucho trabajo hecho desarrollando patentes y propiedad intelectual."
+  },
+  {
+    "start": 1274.76,
+    "end": 1281.28,
+    "text": " \u00bfQu\u00e9 tan importantes son estos temas, la estrategia de propiedad intelectual, en proyectos como el de ustedes,"
+  },
+  {
+    "start": 1281.28,
+    "end": 1282.28,
+    "text": " en proyectos como ViewMind?"
+  },
+  {
+    "start": 1282.28,
+    "end": 1284.28,
+    "text": " Es s\u00faper importante."
+  },
+  {
+    "start": 1284.28,
+    "end": 1292.28,
+    "text": " Un requisito, por ejemplo, para la primera inversi\u00f3n hecha por SITE fue contar con una propiedad intelectual"
+  },
+  {
+    "start": 1292.28,
+    "end": 1301.28,
+    "text": " porque es lo \u00fanico que nos puede proteger, obviamente, de que alguien nos quiera copiar."
+  },
+  {
+    "start": 1301.28,
+    "end": 1308.28,
+    "text": " Entonces, somos muy cuidadosos con eso porque es un proceso complejo."
+  },
+  {
+    "start": 1308.28,
+    "end": 1315.28,
+    "text": " M\u00e1s all\u00e1 de escribir la patente, que tambi\u00e9n lleva tiempo porque jam\u00e1s hemos tenido la suerte de presentar una patente sin ninguna objeci\u00f3n,"
+  },
+  {
+    "start": 1315.28,
+    "end": 1318.28,
+    "text": " siempre nacen objeciones."
+  },
+  {
+    "start": 1318.28,
+    "end": 1331.28,
+    "text": " Tenemos patentes presentadas en Argentina, en Brasil, Canad\u00e1, Estados Unidos, Europa, China, India, Jap\u00f3n, Singapur."
+  },
+  {
+    "start": 1331.28,
+    "end": 1341.28,
+    "text": " Siempre que presentamos una patente hay objeciones del revisor de patentes por otras patentes que son similares o plantean hacer cosas similares."
+  },
+  {
+    "start": 1341.28,
+    "end": 1345.28,
+    "text": " Entonces, como las respuestas a un revisor en un paper."
+  },
+  {
+    "start": 1345.28,
+    "end": 1353.28,
+    "text": " Hay que mostrar por qu\u00e9 somos originales y si efectivamente lo que estamos proponiendo sirve."
+  },
+  {
+    "start": 1353.28,
+    "end": 1356.28,
+    "text": " La utilidad."
+  },
+  {
+    "start": 1356.28,
+    "end": 1358.28,
+    "text": " Pero sobre todo ser originales."
+  },
+  {
+    "start": 1358.28,
+    "end": 1366.28,
+    "text": " Entonces, ese es un proceso largo que puede durar dos, tres, cuatro a\u00f1os porque suele haber tres, cuatro revisiones y responder a cada revisi\u00f3n"
+  },
+  {
+    "start": 1366.28,
+    "end": 1371.28,
+    "text": " podemos hacerlo r\u00e1pido, pero despu\u00e9s del tiempo de revisi\u00f3n tambi\u00e9n lleva."
+  },
+  {
+    "start": 1371.28,
+    "end": 1378.28,
+    "text": " Pero es important\u00edsimo para resguardar la propiedad intelectual, obviamente, y para lograr inversi\u00f3n."
+  },
+  {
+    "start": 1378.28,
+    "end": 1391.28,
+    "text": " Hasta ahora no hemos conocido a nadie que haya pretendido o haya manifestado ese inter\u00e9s en invertir en Viewmind sin que a su vez haya pedido evidencia propiedad intelectual."
+  },
+  {
+    "start": 1391.28,
+    "end": 1395.28,
+    "text": " Sin eso no hay inversi\u00f3n, por eso es tan importante."
+  },
+  {
+    "start": 1395.28,
+    "end": 1407.28,
+    "text": " Pero lo que es interesante tambi\u00e9n, y hay que ser cuidadoso, es que si uno llega, si yo llego a publicar, me escribe la propiedad intelectual, soy yo."
+  },
+  {
+    "start": 1407.28,
+    "end": 1422.28,
+    "text": " Si llego a publicar algo que puede vincularse con esa propiedad intelectual, ya el hecho de tener una publicaci\u00f3n lo hace de dominio p\u00fablico y resta originalidad e innovaci\u00f3n."
+  },
+  {
+    "start": 1422.28,
+    "end": 1432.28,
+    "text": " Entonces, es una cuesti\u00f3n trade-off un tanto complicado porque hay que escribir esa propiedad intelectual bas\u00e1ndose en hip\u00f3tesis y resultados,"
+  },
+  {
+    "start": 1432.28,
+    "end": 1435.28,
+    "text": " pero sin haber publicado nada al respecto."
+  },
+  {
+    "start": 1435.28,
+    "end": 1449.28,
+    "text": " Y a su vez, si uno no publica al respecto, muchos l\u00edderes de opini\u00f3n o colegas dudan de la tecnolog\u00eda porque no hay revisi\u00f3n de pares confirmando que esa tecnolog\u00eda est\u00e1 haciendo lo que dice que hace."
+  },
+  {
+    "start": 1449.28,
+    "end": 1455.28,
+    "text": " Entonces, bueno, es un proceso complejo, arduo, pero hasta ahora lo estamos llevando bastante bien."
+  },
+  {
+    "start": 1455.28,
+    "end": 1472.28,
+    "text": " Y esto de invitar a los l\u00edderes de opini\u00f3n a participar en los papers, a involucrarse en la tecnolog\u00eda y a replicar en sus centros de confianza los estudios que hacemos y ver que los resultados son similares o comparables nos da credibilidad."
+  },
+  {
+    "start": 1472.28,
+    "end": 1477.28,
+    "text": " Pero es un tiempo largo, un proceso largo de estudio y de trabajo."
+  },
+  {
+    "start": 1477.28,
+    "end": 1484.28,
+    "text": " Y hablando de procesos arduos, dec\u00edas que a nivel financiamiento tuvieron una primera inversi\u00f3n de CITES."
+  },
+  {
+    "start": 1484.28,
+    "end": 1490.28,
+    "text": " \u00bfC\u00f3mo fue el proceso de levantamiento de capital en general luego del proceso de incubaci\u00f3n de CITES?"
+  },
+  {
+    "start": 1490.28,
+    "end": 1499.28,
+    "text": " Luego del proceso de incubaci\u00f3n seguimos con inversiones semillas."
+  },
+  {
+    "start": 1500.0,
+    "end": 1507.4,
+    "text": " ahora estamos yendo por la inversi\u00f3n seria, porque lo que quer\u00edamos era tener la mayor"
+  },
+  {
+    "start": 1507.4,
+    "end": 1514.88,
+    "text": " cantidad de desarrollo posible, obviamente para que la empresa se totice m\u00e1s. La inversi\u00f3n"
+  },
+  {
+    "start": 1514.88,
+    "end": 1532.28,
+    "text": " en esta semilla fue en cierta forma conducida por el grupo CITES. Nicol\u00e1s Toniali, que es el director,"
+  },
+  {
+    "start": 1532.28,
+    "end": 1540.8,
+    "text": " presidente de este grupo, ha estado involucrado d\u00eda a d\u00eda en esta etapa de inversi\u00f3n semilla."
+  },
+  {
+    "start": 1541.0,
+    "end": 1546.64,
+    "text": " La inversi\u00f3n semilla, luego de CITES, la conseguimos de distintos inversores,"
+  },
+  {
+    "start": 1546.64,
+    "end": 1555.88,
+    "text": " pero b\u00e1sicamente el objetivo fue seguir desarrollando el producto y no tanto enfocarse"
+  },
+  {
+    "start": 1555.88,
+    "end": 1563.08,
+    "text": " en el revenue, porque entend\u00eda que todav\u00eda faltaba desarrollo. Y como sabemos, un producto"
+  },
+  {
+    "start": 1563.08,
+    "end": 1572.2,
+    "text": " que se lanza al mercado sin estar en una etapa de funcionalidad, como deber\u00eda ser, y empieza a"
+  },
+  {
+    "start": 1572.2,
+    "end": 1580.24,
+    "text": " arrojar errores, hace que los usuarios no lo quieran usar y luego revertir esa situaci\u00f3n,"
+  },
+  {
+    "start": 1580.24,
+    "end": 1585.48,
+    "text": " esa imagen negativa del producto, puede ser un gran problema. Todos estuvieron de acuerdo en que"
+  },
+  {
+    "start": 1585.48,
+    "end": 1593.56,
+    "text": " necesit\u00e1bamos m\u00e1s elaboraci\u00f3n antes de salir al mercado y este grupo inversor es un grupo que tiene"
+  },
+  {
+    "start": 1593.56,
+    "end": 1603.32,
+    "text": " por detr\u00e1s empresas vinculadas a salud. Entonces no buscamos cualquier inversor, sino inversores que"
+  },
+  {
+    "start": 1603.32,
+    "end": 1612.12,
+    "text": " est\u00e9n en el \u00e1mbito, cosa de que puedan traccionar de otra forma la empresa, que ellos sean los mismos"
+  },
+  {
+    "start": 1612.32,
+    "end": 1620.28,
+    "text": " que lleven a ViewMind al \u00e1mbito donde tiene que estar para que lo conozcan, para lograr m\u00e1s estudios,"
+  },
+  {
+    "start": 1620.28,
+    "end": 1631.64,
+    "text": " m\u00e1s evaluaciones, m\u00e1s diagn\u00f3sticos, m\u00e1s personas evaluadas. Y en este sentido tambi\u00e9n se incorpor\u00f3"
+  },
+  {
+    "start": 1631.64,
+    "end": 1640.4,
+    "text": " el actual CEO, Mark Edwards, que es una persona que ha trabajado en distintas startups, que"
+  },
+  {
+    "start": 1640.4,
+    "end": 1647.6,
+    "text": " se incorpora a estas startups en estadios similares a las que se incorpor\u00f3 ViewMind,"
+  },
+  {
+    "start": 1647.6,
+    "end": 1655.2,
+    "text": " y bueno, tiene un equipo tambi\u00e9n de trabajo, o sea que no vino solo, est\u00e1 acostumbrado de nuevo"
+  },
+  {
+    "start": 1655.2,
+    "end": 1663.68,
+    "text": " a trabajar en startups y hacerla llegar hasta la serie B, y entre CITES, Mark Edwards y otros"
+  },
+  {
+    "start": 1663.68,
+    "end": 1670.0,
+    "text": " inversores, el grupo Verge, que es este grupo que est\u00e1 vinculado con Salud, que es un grupo asi\u00e1tico,"
+  },
+  {
+    "start": 1670.56,
+    "end": 1679.56,
+    "text": " hay otro grupo en... tambi\u00e9n hay dos grupos latinoamericanos grandes y uno chileno,"
+  },
+  {
+    "start": 1679.56,
+    "end": 1687.3600000000001,
+    "text": " pero b\u00e1sicamente el que est\u00e1 en Brasil tiene una colaboraci\u00f3n con el hospital Einstein y tambi\u00e9n"
+  },
+  {
+    "start": 1687.3600000000001,
+    "end": 1692.48,
+    "text": " otro con el sitio liban\u00e9s, entonces de esa forma nosotros accedemos a estos dos hospitales, es decir,"
+  },
+  {
+    "start": 1692.48,
+    "end": 1699.04,
+    "text": " que son inversores que hacen que la empresa traccione en el \u00e1mbito donde tiene que hacer"
+  },
+  {
+    "start": 1700.4,
+    "end": 1706.72,
+    "text": " Y en ese sentido, \u00bfqu\u00e9 aprendizajes o que otros aprendizajes te dej\u00f3 este proceso de levantamiento de capital?"
+  },
+  {
+    "start": 1709.44,
+    "end": 1721.92,
+    "text": " Estar predispuesto a ofrecer y hacer lo posible, o sea tener la plasticidad suficiente como para"
+  },
+  {
+    "start": 1722.0,
+    "end": 1734.24,
+    "text": " perder, resolver o al menos entregar algo alineado a lo que los inversores est\u00e1n esperando, es decir,"
+  },
+  {
+    "start": 1734.24,
+    "end": 1741.0,
+    "text": " tal vez uno tiene una l\u00ednea, supongamos que tengamos una l\u00ednea en Alzheimer, y bueno,"
+  },
+  {
+    "start": 1741.0,
+    "end": 1747.84,
+    "text": " las drogas en Alzheimer no estar\u00edan funcionando, es un supuesto, entonces viene un inversor y nos dice,"
+  },
+  {
+    "start": 1748.84,
+    "end": 1756.72,
+    "text": " nosotros tenemos unas drogas en desarrollo que est\u00e1n mostrando ser muy exitosas y queremos que"
+  },
+  {
+    "start": 1756.72,
+    "end": 1763.88,
+    "text": " ViewMind se empiece a dedicar a escribir dos cien m\u00faltiples. Bueno, tenemos que tener la cintura para"
+  },
+  {
+    "start": 1763.88,
+    "end": 1769.8,
+    "text": " poder virar en el momento adecuado, armar el equipo adecuado para satisfacer esa necesidad de ese"
+  },
+  {
+    "start": 1769.8,
+    "end": 1778.32,
+    "text": " inversor cuando as\u00ed lo plantea. Ese tipo de cosas vamos aprendiendo, a estar enfocados en algo,"
+  },
+  {
+    "start": 1778.32,
+    "end": 1783.4,
+    "text": " pero no ser r\u00edgidos con respecto a lo que hay que desarrollar, siempre que sea salud,"
+  },
+  {
+    "start": 1783.4,
+    "end": 1787.52,
+    "text": " poder ir virando y armando el equipo para lograr los objetivos."
+  },
+  {
+    "start": 1789.08,
+    "end": 1795.56,
+    "text": " Pasando ya a temas de producto, \u00bfen qu\u00e9 fase se encuentra actualmente ViewMind?"
+  },
+  {
+    "start": 1795.56,
+    "end": 1799.52,
+    "text": " ViewMind en este momento est\u00e1 aprobado como"
+  },
+  {
+    "start": 1800.0,
+    "end": 1806.88,
+    "text": " equipo m\u00e9dico en ANMAD. Est\u00e1 aprobado como equipo m\u00e9dico en ANVISA, eso nos permite"
+  },
+  {
+    "start": 1806.88,
+    "end": 1813.4,
+    "text": " trabajar en Uruguay, Argentina, Brasil, en Chile tambi\u00e9n hicimos la presentaci\u00f3n, es"
+  },
+  {
+    "start": 1813.4,
+    "end": 1818.96,
+    "text": " otro sistema, se regula distinto el sistema de salud, pero tambi\u00e9n podemos trabajar en"
+  },
+  {
+    "start": 1818.96,
+    "end": 1825.56,
+    "text": " Chile, Paraguay, gran parte del Mercosur. Estamos haciendo la presentaci\u00f3n para Colombia"
+  },
+  {
+    "start": 1825.56,
+    "end": 1832.48,
+    "text": " y M\u00e9xico. A su vez tenemos la presentaci\u00f3n hecha en la comunidad europea, as\u00ed que podemos"
+  },
+  {
+    "start": 1832.48,
+    "end": 1841.04,
+    "text": " trabajar como equipo de medici\u00f3n de cognici\u00f3n en Europa. Tenemos que revalidarlo ahora porque"
+  },
+  {
+    "start": 1841.04,
+    "end": 1849.04,
+    "text": " fue parte de una instancia que se abri\u00f3 durante el COVID, pero hay que renovarla. Y tambi\u00e9n"
+  },
+  {
+    "start": 1849.04,
+    "end": 1860.16,
+    "text": " tenemos la aprobaci\u00f3n para trabajar en Singapur, en Malasia, y tenemos la presentaci\u00f3n para"
+  },
+  {
+    "start": 1860.16,
+    "end": 1867.76,
+    "text": " la FDA, que est\u00e1 siendo revisada en este momento, y una presentaci\u00f3n aprobada como"
+  },
+  {
+    "start": 1867.76,
+    "end": 1876.0,
+    "text": " equipo de medici\u00f3n cognitivo tambi\u00e9n para la FDA. Es decir, tenemos una submission hecha"
+  },
+  {
+    "start": 1876.76,
+    "end": 1884.84,
+    "text": " con aprobaci\u00f3n de excepci\u00f3n de uso de Viumine NeuroScan en Estados Unidos. As\u00ed que en ese"
+  },
+  {
+    "start": 1884.84,
+    "end": 1893.16,
+    "text": " sentido ya lo estamos aplicando en cl\u00ednicas de longevidad y en centros privados en Estados Unidos."
+  },
+  {
+    "start": 1893.16,
+    "end": 1898.96,
+    "text": " Veo que est\u00e1n abriendo frentes en muchos lados, porque Europa, Estados Unidos, varios pa\u00edses"
+  },
+  {
+    "start": 1898.96,
+    "end": 1904.44,
+    "text": " de Latinoam\u00e9rica, tambi\u00e9n en Asia. \u00bfC\u00f3mo fueron estos avances en el camino regulatorio y qu\u00e9"
+  },
+  {
+    "start": 1904.44,
+    "end": 1914.04,
+    "text": " desaf\u00edos se fueron encontrando en este camino? Tenemos dentro de nuestro equipo de trabajo un"
+  },
+  {
+    "start": 1914.04,
+    "end": 1921.68,
+    "text": " sector que est\u00e1 especializado en regulatoria. Esas son de las cosas que nos han pedido los"
+  },
+  {
+    "start": 1921.68,
+    "end": 1926.92,
+    "text": " nuevos inversores, los inversores que ya invirtieron, tener todo allanado ese camino."
+  },
+  {
+    "start": 1927.04,
+    "end": 1936.68,
+    "text": " Como es un equipo especializado, digamos, tiene las herramientas como para hacer las presentaciones"
+  },
+  {
+    "start": 1936.68,
+    "end": 1945.52,
+    "text": " adecuadas. A su vez, como por ejemplo en la FDA, no ten\u00edamos un conocimiento exhaustivo de c\u00f3mo"
+  },
+  {
+    "start": 1945.52,
+    "end": 1952.68,
+    "text": " se deb\u00edan presentar los protocolos para la aprobaci\u00f3n de Viumine. Cuando ocurren esos casos,"
+  },
+  {
+    "start": 1952.68,
+    "end": 1957.6,
+    "text": " nos contratamos terceros que nos ayuden. Pero salvo en Estados Unidos, en el resto de los pa\u00edses"
+  },
+  {
+    "start": 1957.6,
+    "end": 1964.44,
+    "text": " hemos podido trabajar de forma automata. Es decir, con el equipo que tenemos fue suficiente para"
+  },
+  {
+    "start": 1964.44,
+    "end": 1972.44,
+    "text": " resolver las presentaciones. Supongamos que yo forma parte de un hospital y algo que me resuena"
+  },
+  {
+    "start": 1972.44,
+    "end": 1977.64,
+    "text": " y quisiera contratar en alg\u00fan punto a Viumine. \u00bfQu\u00e9 es lo que estar\u00eda contratando? \u00bfQu\u00e9 es el"
+  },
+  {
+    "start": 1977.6399999999999,
+    "end": 1986.72,
+    "text": " producto en concreto? Estar\u00edas contratando un equipo. B\u00e1sicamente estar\u00edas contratando un"
+  },
+  {
+    "start": 1986.72,
+    "end": 1995.28,
+    "text": " equipo y lo que obtendr\u00edas es como aparato, una laptop y un casco de radio virtual con"
+  },
+  {
+    "start": 1995.28,
+    "end": 2012.96,
+    "text": " iTracker incorporado. B\u00e1sicamente nosotros proveemos este equipo y una cantidad a discutir o acordar"
+  },
+  {
+    "start": 2012.96,
+    "end": 2021.56,
+    "text": " de estudios para medir cognici\u00f3n y hacer diagn\u00f3sticos dependiendo del pa\u00eds. Ac\u00e1 en Argentina puede ser"
+  },
+  {
+    "start": 2021.56,
+    "end": 2032.6,
+    "text": " para medir cognici\u00f3n y para hacer diagn\u00f3sticos tambi\u00e9n. Lo que vendemos es b\u00e1sicamente la"
+  },
+  {
+    "start": 2032.6,
+    "end": 2043.12,
+    "text": " utilizaci\u00f3n de este equipo de Viumine. Lo que hace el personal de salud es evaluar a la persona a"
+  },
+  {
+    "start": 2043.12,
+    "end": 2048.6,
+    "text": " trav\u00e9s de distintas tareas que activan distintas partes del cerebro, como dec\u00eda antes, de distintos"
+  },
+  {
+    "start": 2048.6,
+    "end": 2055.08,
+    "text": " procesos cognitivos. Esta tarea dura unos 15 minutos en promedio, termina de hacerse el estudio,"
+  },
+  {
+    "start": 2055.08,
+    "end": 2061.92,
+    "text": " va a una nube que est\u00e1 obviamente con todas las certificaciones, ir a MISO y todo lo que se te"
+  },
+  {
+    "start": 2061.92,
+    "end": 2069.16,
+    "text": " puede ocurrir por confidencialidad de datos y devuelve un reporte pormenorizado de las capacidades"
+  },
+  {
+    "start": 2069.16,
+    "end": 2075.44,
+    "text": " medidas por Viumine de esa persona. Entonces, \u00bfqu\u00e9 estar\u00edas contratando? Un equipo m\u00e9dico que te"
+  },
+  {
+    "start": 2075.44,
+    "end": 2085.04,
+    "text": " permite medir cognici\u00f3n y funcionamiento cerebral a trav\u00e9s de los movimientos de los ojos. \u00bfY por qu\u00e9"
+  },
+  {
+    "start": 2085.04,
+    "end": 2091.7200000000003,
+    "text": " realidad virtual? Es un casco de realidad virtual, pero realmente no es realidad virtual lo que usamos. Usamos 2D,"
+  },
+  {
+    "start": 2091.7200000000003,
+    "end": 2097.4,
+    "text": " no usamos 3D. Es el casco, pero lo usamos en dos dimensiones y no en tres. Pero el casco en realidad"
+  },
+  {
+    "start": 2097.4,
+    "end": 2099.8,
+    "text": " es de realidad virtual, aunque nosotros no usamos realidad virtual."
+  },
+  {
+    "start": 2100.0,
+    "end": 2103.0,
+    "text": " \u00bfPor qu\u00e9 no usamos realidad virtual todav\u00eda?"
+  },
+  {
+    "start": 2103.0,
+    "end": 2110.0,
+    "text": " Porque lo que buscamos es una experiencia, digamos, placentera de la persona del sentido,"
+  },
+  {
+    "start": 2110.0,
+    "end": 2118.0,
+    "text": " que no se maree, no se sienta extra\u00f1o y los cascos obviamente han mejorado mucho,"
+  },
+  {
+    "start": 2118.0,
+    "end": 2125.0,
+    "text": " pero cuando es 3D el desplazamiento de las figuras en la profundidad hace que la persona un poco se desoriente."
+  },
+  {
+    "start": 2125.0,
+    "end": 2128.0,
+    "text": " Entonces, el casco es as\u00ed, pero usamos 2D."
+  },
+  {
+    "start": 2128.0,
+    "end": 2133.0,
+    "text": " \u00bfY por qu\u00e9 usamos casco? Porque queremos mantener toda la tensi\u00f3n de la persona"
+  },
+  {
+    "start": 2133.0,
+    "end": 2138.0,
+    "text": " y porque una de las m\u00e9tricas que usamos es la dilataci\u00f3n-contracci\u00f3n de pupila."
+  },
+  {
+    "start": 2138.0,
+    "end": 2143.0,
+    "text": " Y la pupila es muy sensible a cambios lum\u00ednicos, entonces si la persona est\u00e1 en un lugar"
+  },
+  {
+    "start": 2143.0,
+    "end": 2149.0,
+    "text": " donde cambia la intensidad de la luz de forma constante va a meter ruido en nuestra se\u00f1al,"
+  },
+  {
+    "start": 2149.0,
+    "end": 2153.0,
+    "text": " en una de nuestras se\u00f1ales, entonces a tener un casco todo pasa ah\u00ed"
+  },
+  {
+    "start": 2153.0,
+    "end": 2157.0,
+    "text": " y no hay nada externo que interfiera o provoque ruido."
+  },
+  {
+    "start": 2158.0,
+    "end": 2167.0,
+    "text": " Y te hago otra pregunta. Entiendo que se est\u00e1n enfocando en condiciones como deterioro cognitivo leve, Alzheimer, Parkinson."
+  },
+  {
+    "start": 2167.0,
+    "end": 2173.0,
+    "text": " \u00bfCu\u00e1les son los caminos que van a estar priorizando en los pr\u00f3ximos a\u00f1os?"
+  },
+  {
+    "start": 2174.0,
+    "end": 2185.0,
+    "text": " Vamos a priorizar tres caminos. Uno es identificar qu\u00e9 persona hace deterioro cognitivo y cu\u00e1l no."
+  },
+  {
+    "start": 2185.0,
+    "end": 2191.0,
+    "text": " Digo, \u00bfcu\u00e1l es una persona sana, control y cu\u00e1l es una persona con deterioro cognitivo?"
+  },
+  {
+    "start": 2191.0,
+    "end": 2197.0,
+    "text": " Otro va a ser obviamente lo de Alzheimer, donde ya estamos en distintos protocolos,"
+  },
+  {
+    "start": 2197.0,
+    "end": 2205.0,
+    "text": " incluso testiando algunas drogas nuevas. Y otro que est\u00e1 m\u00e1s vinculado con lo que es"
+  },
+  {
+    "start": 2205.0,
+    "end": 2211.0,
+    "text": " medici\u00f3n de longevidad, que no necesariamente tiene que ser adultos mayores."
+  },
+  {
+    "start": 2211.0,
+    "end": 2222.0,
+    "text": " Puede ser una persona de 20 a\u00f1os que quiera tener una noci\u00f3n de c\u00f3mo est\u00e1 funcionando su sistema cognitivo"
+  },
+  {
+    "start": 2222.0,
+    "end": 2227.0,
+    "text": " hoy suponte y ver c\u00f3mo funciona dentro de cuatro meses."
+  },
+  {
+    "start": 2227.0,
+    "end": 2233.0,
+    "text": " En el medio puede hacer actividad f\u00edsica, una dieta, ejercicios cognitivos, lo que fuere,"
+  },
+  {
+    "start": 2233.0,
+    "end": 2239.0,
+    "text": " y repetir y ver si hubo mejora, no o lo que se te ocurra."
+  },
+  {
+    "start": 2239.0,
+    "end": 2247.0,
+    "text": " Entonces ese estudio longitudinal es s\u00faper \u00fatil, que es una de las cosas en las que estamos dedicando mucho tiempo ahora"
+  },
+  {
+    "start": 2247.0,
+    "end": 2251.0,
+    "text": " porque los otros dos ya lo ten\u00edamos bastante encaminados, este m\u00e1s nuevo,"
+  },
+  {
+    "start": 2251.0,
+    "end": 2258.0,
+    "text": " porque al ser una herramienta muy sensible, permite ver peque\u00f1os cambios en la persona."
+  },
+  {
+    "start": 2258.0,
+    "end": 2267.0,
+    "text": " Entonces de nuevo, si una persona quiere testear o chequear si algo que est\u00e1 haciendo est\u00e1 mejorando o no su desempe\u00f1o,"
+  },
+  {
+    "start": 2267.0,
+    "end": 2272.0,
+    "text": " con ViewMind lo podr\u00eda hacer, independientemente de la edad."
+  },
+  {
+    "start": 2274.0,
+    "end": 2279.0,
+    "text": " Veo muchas veces que hay aplicaciones de financiamientos p\u00fablicos que est\u00e1n enfocando en temas de demencia,"
+  },
+  {
+    "start": 2279.0,
+    "end": 2284.0,
+    "text": " incluso envejecimiento, \u00bfforma parte de su estrategia de levantamiento de capital,"
+  },
+  {
+    "start": 2284.0,
+    "end": 2292.0,
+    "text": " aspirar a este tipo de funding p\u00fablicos o ya est\u00e1n yendo por el lado de Venture Back y esa parte no la est\u00e1n explorando m\u00e1s?"
+  },
+  {
+    "start": 2292.0,
+    "end": 2298.0,
+    "text": " Estamos yendo m\u00e1s por lo privado, porque ten\u00edamos esa intenci\u00f3n."
+  },
+  {
+    "start": 2298.0,
+    "end": 2305.0,
+    "text": " De hecho estamos participando en un programa Fingers, es un programa finland\u00e9s,"
+  },
+  {
+    "start": 2305.0,
+    "end": 2318.0,
+    "text": " como lo conocer\u00e1s, donde tienen tratamientos no farmacol\u00f3gicos, dieta mediterr\u00e1nea, ejercicio, sociabilizaci\u00f3n, estimulaci\u00f3n neurocognitiva"
+  },
+  {
+    "start": 2318.0,
+    "end": 2325.0,
+    "text": " y ven justamente c\u00f3mo esto puede mejorar el rendimiento o hacer que no empeore en una persona."
+  },
+  {
+    "start": 2325.0,
+    "end": 2332.0,
+    "text": " Pero no hemos tenido suerte, hemos tambi\u00e9n hecho aplicaciones al National Health Institute en Estados Unidos,"
+  },
+  {
+    "start": 2332.0,
+    "end": 2336.0,
+    "text": " pero ahora con los recortes de Trump est\u00e1 un poco complicado."
+  },
+  {
+    "start": 2336.0,
+    "end": 2344.0,
+    "text": " Hemos tenido financiaci\u00f3n europea que terminamos de hacer hace muy poquito, un protocolo, por ejemplo,"
+  },
+  {
+    "start": 2344.0,
+    "end": 2351.0,
+    "text": " para medir en Luxemburgo, es una colaboraci\u00f3n entre Luxemburgo, B\u00e9lgica y Francia y Alemania,"
+  },
+  {
+    "start": 2351.0,
+    "end": 2359.0,
+    "text": " medir el impacto del long COVID en las personas, entonces adem\u00e1s de un mont\u00f3n de t\u00e9cnicas,"
+  },
+  {
+    "start": 2359.0,
+    "end": 2367.0,
+    "text": " Femurray, estudios bioqu\u00edmicos, neurocognitivos y dem\u00e1s, se ha incorporado a ViewMind"
+  },
+  {
+    "start": 2367.0,
+    "end": 2373.0,
+    "text": " y es un estudio que empezamos a hacer hace cinco a\u00f1os y ahora lo terminamos y vamos a ver los resultados."
+  },
+  {
+    "start": 2373.0,
+    "end": 2383.0,
+    "text": " Para eso s\u00ed tuvimos financiaci\u00f3n, pero son financiaciones para hacer estudios y no para que la empresa crezca."
+  },
+  {
+    "start": 2384.0,
+    "end": 2392.0,
+    "text": " Por lo que me est\u00e1s diciendo, veo que la salida hacia centros de salud suena como un cliente potencial muy claro,"
+  },
+  {
+    "start": 2392.0,
+    "end": 2396.0,
+    "text": " pero \u00bfqu\u00e9 otros posibles hay dentro de los caminos actuales de ViewMind?"
+  },
+  {
+    "start": 2398.0,
+    "end": 2400.0,
+    "text": " Ahora nos manteremos en..."
+  },
+  {
+    "start": 2400.0,
+    "end": 2408.08,
+    "text": " enfocados en eso porque tenemos un compromiso tambi\u00e9n con los inversores y tal vez especular"
+  },
+  {
+    "start": 2408.08,
+    "end": 2416.0,
+    "text": " sobre otros \u00e1mbitos cree cierta confusi\u00f3n porque tenemos una l\u00ednea de desarrollo."
+  },
+  {
+    "start": 2416.0,
+    "end": 2420.2,
+    "text": " Incluso tal vez tendr\u00edamos que cambiar el brand porque no ser\u00eda ViewMind Health como"
+  },
+  {
+    "start": 2420.2,
+    "end": 2427.44,
+    "text": " lo tenemos ahora m\u00e1s vinculado a salud, sino ViewMind Performance o algo as\u00ed m\u00e1s vinculado."
+  },
+  {
+    "start": 2428.28,
+    "end": 2435.6,
+    "text": " Imaginar\u00e1s que algo que se podr\u00eda evaluar pero no lo estamos haciendo ahora es todo lo que"
+  },
+  {
+    "start": 2435.6,
+    "end": 2442.8,
+    "text": " tenga que ver con rendimiento en deportes. Pero tambi\u00e9n pensaba que incluso qued\u00e1ndonos"
+  },
+  {
+    "start": 2442.8,
+    "end": 2448.92,
+    "text": " en temas de salud m\u00e1s all\u00e1 de en centros de salud y dem\u00e1s me imagino que la industria"
+  },
+  {
+    "start": 2448.92,
+    "end": 2454.08,
+    "text": " pharma puede haber valor de este tipo de tecnolog\u00edas \u00bfVerdad? Sin duda de la industria"
+  },
+  {
+    "start": 2454.08,
+    "end": 2459.92,
+    "text": " pharma lo hay. Hemos hecho protocolos con ellos, estuvimos trabajando con Novartis,"
+  },
+  {
+    "start": 2459.92,
+    "end": 2471.72,
+    "text": " con Biogen, con Lilly, con Genentech y justamente lo que quer\u00edan ellos ver era si pod\u00edamos"
+  },
+  {
+    "start": 2471.72,
+    "end": 2479.4,
+    "text": " identificar patolog\u00edas, patrones de patolog\u00edas, fenotipos como nosotros dec\u00edamos que hac\u00edamos."
+  },
+  {
+    "start": 2480.08,
+    "end": 2485.76,
+    "text": " Con ellos tenemos distintas publicaciones en Alzheimer y en esclerosis m\u00faltipla. As\u00ed que"
+  },
+  {
+    "start": 2485.76,
+    "end": 2491.96,
+    "text": " s\u00ed hemos trabajado, tienen inter\u00e9s pero la industria farmac\u00e9utica tambi\u00e9n tiene tiempos"
+  },
+  {
+    "start": 2491.96,
+    "end": 2500.44,
+    "text": " extensos hasta el momento de tomar una decisi\u00f3n e involucrarse comercialmente como partner de"
+  },
+  {
+    "start": 2501.88,
+    "end": 2508.8,
+    "text": " una empresa y sobre todo cuando es una empresa que naci\u00f3 en Cubada o naci\u00f3 en sus centros."
+  },
+  {
+    "start": 2509.8,
+    "end": 2515.36,
+    "text": " Mencionaste hace un rato que est\u00e1n ya pensando en esto del levantamiento de una serie A,"
+  },
+  {
+    "start": 2515.36,
+    "end": 2520.2,
+    "text": " por lo que entiendo, viendo elegir un camino venture backed, van a elegir c\u00f3mo seguir por"
+  },
+  {
+    "start": 2520.2,
+    "end": 2524.52,
+    "text": " esa l\u00ednea hacia d\u00f3nde que envisionan para BeMind como compa\u00f1\u00eda."
+  },
+  {
+    "start": 2526.4,
+    "end": 2533.28,
+    "text": " Que se use como una herramienta para medir cognici\u00f3n, nuestro foco principal est\u00e1 puesta en"
+  },
+  {
+    "start": 2533.28,
+    "end": 2538.32,
+    "text": " Estados Unidos por eso el \u00e9nfasis en la aprobaci\u00f3n de la FDA. Si bien tenemos una"
+  },
+  {
+    "start": 2539.72,
+    "end": 2547.84,
+    "text": " pre-approbation para usarlo como que ser\u00eda, tenemos dos productos, uno es BeMind NeuroScan,"
+  },
+  {
+    "start": 2547.84,
+    "end": 2552.44,
+    "text": " que es lo que est\u00e1 aprobado para medir cognici\u00f3n en general y el otro es BeMind Atlas, que ese es"
+  },
+  {
+    "start": 2552.44,
+    "end": 2558.68,
+    "text": " el que estamos siguiendo su aprobaci\u00f3n, o sea el proceso de aprobaci\u00f3n que es para hacer"
+  },
+  {
+    "start": 2558.68,
+    "end": 2564.6,
+    "text": " diagn\u00f3stico. Entonces nuestro objetivo es que se puede usar BeMind para esto que ya se est\u00e1 usando"
+  },
+  {
+    "start": 2564.6,
+    "end": 2571.28,
+    "text": " de evaluaci\u00f3n neurocognitiva, entendiendo a BeMind como un biomarcador porque vincula el"
+  },
+  {
+    "start": 2571.28,
+    "end": 2577.92,
+    "text": " cerebro con el ojo con la cognici\u00f3n y por otro lado lo que es BeMind Atlas para hacer diagn\u00f3stico,"
+  },
+  {
+    "start": 2577.92,
+    "end": 2587.24,
+    "text": " para determinar aparte si una persona tiene m\u00e1s o menos alteraci\u00f3n, si esa persona es un mal"
+  },
+  {
+    "start": 2587.24,
+    "end": 2592.6,
+    "text": " cognitive impairment o un deterioro cognitivo elev\u00e9 o es una persona que puede ser considerada"
+  },
+  {
+    "start": 2592.6,
+    "end": 2599.52,
+    "text": " saludable y a partir de ah\u00ed, bueno, cu\u00e1les ser\u00edan las indicaciones o prescripciones o"
+  },
+  {
+    "start": 2599.52,
+    "end": 2606.68,
+    "text": " cursos que dar\u00eda el profesional en salud. Bueno Gerardo, estamos llegando al final pero no quer\u00eda irme"
+  },
+  {
+    "start": 2606.68,
+    "end": 2615.28,
+    "text": " sin preguntarte m\u00e1s sobre vos b\u00e1sicamente, quer\u00eda preguntarte c\u00f3mo fue tu camino profesional antes"
+  },
+  {
+    "start": 2615.28,
+    "end": 2625.68,
+    "text": " de BeMind. Un tanto tortuoso porque ten\u00eda el objetivo pero no encontraba c\u00f3mo llevarlo a cabo,"
+  },
+  {
+    "start": 2625.68,
+    "end": 2631.72,
+    "text": " cuando dec\u00eda que era al principio freelance es porque yo trabajaba en otras cosas no vinculadas"
+  },
+  {
+    "start": 2631.72,
+    "end": 2637.24,
+    "text": " con lo acad\u00e9mico y ten\u00eda esta idea en mente de desarrollar un producto siempre con esto de,"
+  },
+  {
+    "start": 2637.24,
+    "end": 2643.8,
+    "text": " yo vengo del \u00e1mbito de la filosof\u00eda, yo me recib\u00ed de licenciado en filosof\u00eda pero bueno,"
+  },
+  {
+    "start": 2643.8,
+    "end": 2648.12,
+    "text": " mientras iba haciendo filosof\u00eda me daba cuenta, siempre me interes\u00f3 todo la teor\u00eda del conocimiento,"
+  },
+  {
+    "start": 2648.12,
+    "end": 2655.88,
+    "text": " siempre el hombre, tal vez ese es el sesgo de por qu\u00e9 el ojo, porque desde la filosof\u00eda el"
+  },
+  {
+    "start": 2655.88,
+    "end": 2660.32,
+    "text": " hombre es un animal simb\u00f3lico y el s\u00edmbolo en nuestra cultura occidental entra sobre todo a trav\u00e9s"
+  },
+  {
+    "start": 2660.32,
+    "end": 2668.56,
+    "text": " del ojo, pero estando en filosof\u00eda entend\u00eda que la filosof\u00eda no me iba a dar las respuestas que yo"
+  },
+  {
+    "start": 2668.56,
+    "end": 2673.4,
+    "text": " quer\u00eda, entonces empec\u00e9 a estudiar biolog\u00eda y me enfoqu\u00e9 sobre todo en lo que era la biolog\u00eda"
+  },
+  {
+    "start": 2673.4,
+    "end": 2679.48,
+    "text": " celular para ir a la parte nerviosa y despu\u00e9s hice una especializaci\u00f3n en lo que es retina,"
+  },
+  {
+    "start": 2679.48,
+    "end": 2687.2,
+    "text": " que tambi\u00e9n me dio todo un pantallazo si se quiere, un know-how de todo el sistema visual"
+  },
+  {
+    "start": 2687.2,
+    "end": 2693.6,
+    "text": " y distintas \u00e1reas involucradas y despu\u00e9s de eso me di cuenta que con la biolog\u00eda tal poco me"
+  },
+  {
+    "start": 2693.6,
+    "end": 2700.0,
+    "text": " alcanzaba para lograr este modelo, este modelado que yo quer\u00eda hacer para..."
+  },
+  {
+    "start": 2700.0,
+    "end": 2706.28,
+    "text": " para entender qu\u00e9 era lo que pasaba de forma sist\u00e9mica, entonces empec\u00e9 con ingenier\u00eda el\u00e9ctrica"
+  },
+  {
+    "start": 2706.28,
+    "end": 2711.04,
+    "text": " y ah\u00ed empec\u00e9 a vincularme con todo lo que era machine learning y ese tipo de cosas."
+  },
+  {
+    "start": 2711.04,
+    "end": 2720.28,
+    "text": " Y una vez que tuve eso empec\u00e9 a vincularme con grupos de trabajo de afuera que estaban muy vinculados"
+  },
+  {
+    "start": 2720.28,
+    "end": 2725.56,
+    "text": " porque ya ven\u00edan trabajando en eye tracking y movimientos oculares y cognici\u00f3n y ah\u00ed me fui."
+  },
+  {
+    "start": 2725.96,
+    "end": 2737.24,
+    "text": " Y volv\u00ed al tiempo, me volv\u00ed a ir hasta que dijimos, y sobre todo yo me dije que no me interesaba tanto lo acad\u00e9mico"
+  },
+  {
+    "start": 2737.24,
+    "end": 2744.96,
+    "text": " porque quer\u00eda justamente hacer un producto que se ha usado por la comunidad"
+  },
+  {
+    "start": 2744.96,
+    "end": 2753.84,
+    "text": " y es ah\u00ed donde empec\u00e9 a pensar en c\u00f3mo lograr un producto y surgi\u00f3 la posibilidad de CITES financi\u00e1ndonos."
+  },
+  {
+    "start": 2753.84,
+    "end": 2759.12,
+    "text": " Tal vez si nos hubiese financiado el PICT startup no hubi\u00e9semos llegado a CITES,"
+  },
+  {
+    "start": 2759.12,
+    "end": 2765.76,
+    "text": " pero hubiese terminado en alg\u00fan momento indefectiblemente y hubi\u00e9semos tenido que acudir s\u00ed o s\u00ed a capital"
+  },
+  {
+    "start": 2765.76,
+    "end": 2771.48,
+    "text": " fuera del sistema acad\u00e9mico para seguir avanzando."
+  },
+  {
+    "start": 2772.56,
+    "end": 2777.88,
+    "text": " Mencionabas reci\u00e9n que parte de los skills que te sirvieron fue temas de machine learning."
+  },
+  {
+    "start": 2777.88,
+    "end": 2782.92,
+    "text": " \u00bfC\u00f3mo crees que estos temas de inteligencia artificial van a terminar haciendo explotarse?"
+  },
+  {
+    "start": 2782.92,
+    "end": 2787.6,
+    "text": " \u00bfQu\u00e9 se quiere toda esta movida m\u00e1s de neurotecnolog\u00eda y en tu caso con la compa\u00f1\u00eda de Viewmind?"
+  },
+  {
+    "start": 2788.8,
+    "end": 2792.4,
+    "text": " Nosotros estamos usando inteligencia artificial."
+  },
+  {
+    "start": 2792.4,
+    "end": 2803.92,
+    "text": " No est\u00e1 permitida la inteligencia artificial en salud como la querr\u00edamos aprovechar nosotros menos en Estados Unidos."
+  },
+  {
+    "start": 2803.92,
+    "end": 2811.2,
+    "text": " As\u00ed que nos quedamos con estos modelos de machine learning, de random forest, Xzplot y otros."
+  },
+  {
+    "start": 2812.2,
+    "end": 2821.2,
+    "text": " Pero s\u00ed vemos que cuando usamos mecanismos m\u00e1s complejos"
+  },
+  {
+    "start": 2821.2,
+    "end": 2827.96,
+    "text": " y podemos encontrar combinaciones de cientos de variables que nos pueden indicar"
+  },
+  {
+    "start": 2827.96,
+    "end": 2834.04,
+    "text": " por qu\u00e9 una persona est\u00e1 procesando como procesa y eso se puede combinar con otras se\u00f1ales."
+  },
+  {
+    "start": 2834.12,
+    "end": 2845.48,
+    "text": " Por ejemplo, el casco que tenemos tiene tambi\u00e9n un dispositivo que monitorea el \u00edndice card\u00edaco."
+  },
+  {
+    "start": 2845.48,
+    "end": 2850.24,
+    "text": " Entonces se puede combinar eso con los movimientos oculares, con la pupila,"
+  },
+  {
+    "start": 2850.24,
+    "end": 2855.48,
+    "text": " la letaci\u00f3n, contracci\u00f3n de pupila que nos da acceso al sistema anual de en\u00e9rgico"
+  },
+  {
+    "start": 2855.48,
+    "end": 2861.96,
+    "text": " y adem\u00e1s tenemos una cantidad de informaci\u00f3n por minuto enorme"
+  },
+  {
+    "start": 2862.12,
+    "end": 2870.6,
+    "text": " que si no es con esta tecnolog\u00eda, con este tipo de an\u00e1lisis, es inviable siquiera pensar en trabajarla."
+  },
+  {
+    "start": 2870.6,
+    "end": 2877.24,
+    "text": " Entonces, indefectiblemente entiendo que en alg\u00fan momento eso se va a popularizar a\u00fan m\u00e1s."
+  },
+  {
+    "start": 2877.24,
+    "end": 2884.68,
+    "text": " Nosotros lo venimos trabajando pero va a ser cada vez m\u00e1s evidente que se requiere su uso."
+  },
+  {
+    "start": 2885.72,
+    "end": 2889.72,
+    "text": " Y desde tu perspectiva, \u00bfc\u00f3mo ves en general el futuro de este campo,"
+  },
+  {
+    "start": 2889.72,
+    "end": 2893.64,
+    "text": " de la neurotecnolog\u00eda y de desarrollos en ciencias cognitivas aplicados?"
+  },
+  {
+    "start": 2893.64,
+    "end": 2900.2,
+    "text": " Es un nuevo paradigma. La forma de interpretar las cosas va a cambiar."
+  },
+  {
+    "start": 2900.2,
+    "end": 2908.84,
+    "text": " De nuevo, la combinaci\u00f3n de m\u00e9tricas, de \u00edndices que uno tal vez no ve"
+  },
+  {
+    "start": 2908.84,
+    "end": 2915.48,
+    "text": " y que un mecanismo de estos o de estos tipos de tecnolog\u00eda pueden proveer"
+  },
+  {
+    "start": 2915.64,
+    "end": 2921.56,
+    "text": " va a dar nuevos \u00edndices, nuevos feedback de c\u00f3mo entretener una situaci\u00f3n."
+  },
+  {
+    "start": 2921.56,
+    "end": 2926.36,
+    "text": " Y al fin y al cabo nos van a ayudar a rehacernos las preguntas."
+  },
+  {
+    "start": 2926.36,
+    "end": 2928.36,
+    "text": " Porque siempre fue una cuesti\u00f3n de preguntas."
+  },
+  {
+    "start": 2928.36,
+    "end": 2932.76,
+    "text": " La forma en que vos hagas las preguntas va a conducir a la respuesta que puedas obtener."
+  },
+  {
+    "start": 2932.76,
+    "end": 2935.72,
+    "text": " Incluso la inteligencia artificial est\u00e1 funcionando as\u00ed."
+  },
+  {
+    "start": 2935.72,
+    "end": 2942.6,
+    "text": " Si tu pregunta no es buena, no es concreta, la respuesta que tengas no va a ser la esperada"
+  },
+  {
+    "start": 2942.6,
+    "end": 2944.6,
+    "text": " que te va a llevar al mejor puerto."
+  },
+  {
+    "start": 2944.6,
+    "end": 2950.04,
+    "text": " Entonces, obligarnos tambi\u00e9n a hacer las preguntas correctas"
+  },
+  {
+    "start": 2950.04,
+    "end": 2956.04,
+    "text": " y en base a lo que nos vaya mostrando esta tecnolog\u00eda, haga que nos hagamos esas preguntas."
+  },
+  {
+    "start": 2956.04,
+    "end": 2961.4,
+    "text": " Va a ser un replanteo de c\u00f3mo repensamos lo que ver\u00edamos pensando."
+  },
+  {
+    "start": 2961.4,
+    "end": 2965.16,
+    "text": " Va a ser todo por eso. Va a ser un cambio de paradigma que ya est\u00e1."
+  },
+  {
+    "start": 2965.16,
+    "end": 2969.88,
+    "text": " Dudo que vaya para atr\u00e1s. As\u00ed que hay que tratar de sacarle el mejor provecho posible."
+  },
+  {
+    "start": 2970.84,
+    "end": 2976.52,
+    "text": " Y por \u00faltimo, Gerardo, \u00bfqu\u00e9 consejo le dar\u00edas a un cient\u00edfico o a una cient\u00edfica"
+  },
+  {
+    "start": 2976.52,
+    "end": 2978.52,
+    "text": " que est\u00e1 con ganas de emprender?"
+  },
+  {
+    "start": 2978.52,
+    "end": 2981.32,
+    "text": " Que lo haga, que no se quede con las ganas."
+  },
+  {
+    "start": 2981.32,
+    "end": 2992.2799999999997,
+    "text": " Es dif\u00edcil, pero tiene que visualizar qui\u00e9n realmente puede ayudarlo a avanzar en eso."
+  },
+  {
+    "start": 2992.2799999999997,
+    "end": 2997.0,
+    "text": " Y eso se logra a veces viendo qui\u00e9nes lo est\u00e1n haciendo."
+  },
+  {
+    "start": 2997.0,
+    "end": 3000.12,
+    "text": " Consultar a los que lo hacen, plantearle..."
+  },
+  {
+    "start": 3000.0,
+    "end": 3011.64,
+    "text": " es qu\u00e9 se puede hacer, qu\u00e9 no, c\u00f3mo lo har\u00edan y seguir adelante. Porque es una frase que es, digamos,"
+  },
+  {
+    "start": 3011.64,
+    "end": 3017.96,
+    "text": " s\u00faper obvia pero es muy representativa de una startup o de este tipo de cosas,"
+  },
+  {
+    "start": 3017.96,
+    "end": 3021.64,
+    "text": " el peor enemigo de una startup o de una idea novedosa es el tiempo. Entonces,"
+  },
+  {
+    "start": 3021.64,
+    "end": 3028.48,
+    "text": " cuanto m\u00e1s tiempo tarden en comenzar a desarrollar esa idea o avanzar en el producto que tienen en"
+  },
+  {
+    "start": 3028.48,
+    "end": 3039.24,
+    "text": " mente m\u00e1s van a perder y menos chance de hacerlo. As\u00ed que tomar coraje e ir al lugar indicado y eso"
+  },
+  {
+    "start": 3039.24,
+    "end": 3042.72,
+    "text": " se logra preguntando y viendo qui\u00e9n est\u00e1 desarrollando y c\u00f3mo lo hacen."
+  },
+  {
+    "start": 3042.72,
+    "end": 3048.72,
+    "text": " Bueno, llegamos al final del episodio. Gerardo, te agradecemos much\u00edsimo por compartir tu"
+  },
+  {
+    "start": 3048.72,
+    "end": 3052.12,
+    "text": " experiencia y tus conocimientos ac\u00e1 en NeuroStartups."
+  },
+  {
+    "start": 3052.36,
+    "end": 3060.44,
+    "text": " Por favor, el agradecido soy yo y ojal\u00e1 que le sea \u00fatil a alguien y sea un disparador para cosas nuevas."
+  },
+  {
+    "start": 3063.08,
+    "end": 3067.16,
+    "text": " Perfecto, Gerardo. Y con esto cierro, pongo stop ac\u00e1 y despu\u00e9s le hago un insert de..."
+  }
+]
