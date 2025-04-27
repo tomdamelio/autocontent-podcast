@@ -1,0 +1,37 @@
+# Configuración base para episodios del podcast
+episode:
+  number: 3  # Número del episodio
+  title: "ViewMind"  # Título del episodio
+  date: "2025-04-25"  # Fecha de grabación
+  guests:
+    - name: "Gerardo Fernandez"
+      role: "CSO"
+      company: "ViewMind"
+
+# Configuración de rutas
+paths:
+  raw_audio:
+    host: "raw/host.mp3"  # Ruta al audio del host
+    guest: "raw/guest.mp3"  # Ruta al audio del invitado
+  processed_audio: "processed/"  # Directorio para audio procesado
+  combined_audio: "processed/combined.wav"  # Ruta al audio combinado
+  transcripts: "processed/transcripts/"  # Directorio para transcripciones
+  linkedin_posts: "linkedin_posts/"  # Directorio para posts de LinkedIn
+  logs: "logs/"  # Directorio para logs
+
+# Configuración de procesamiento
+processing:
+  audio:
+    sample_rate: 44100
+    channels: 2
+    input_format: "mp3"  # Formato de los archivos de entrada
+    output_format: "wav"  # Formato del archivo combinado
+  transcription:
+    language: "es"
+    model: "medium"
+  content:
+    max_post_length: 1300
+    min_post_length: 1000
+
+# Opciones de generación de contenido
+create_linkedin_posts: true  # Activar/desactivar generación de posts de LinkedIn 

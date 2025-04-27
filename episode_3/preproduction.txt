@@ -1,0 +1,61 @@
+NeuroStartups – Episodio con Gerardo Fernández (ViewMind)
+Fecha de grabación: 25/04/2025
+
+
+
+Introducción del podcast
+Tomás (host): Hola a todos, y bienvenidos a NeuroStartups, el podcast donde exploramos las últimas innovaciones en el ámbito neurotech. Soy Tomás D’Amelio y hoy tengo el gusto de presentarles a Gerardo Fernández, fundador y director científico de ViewMind.
+---
+¡Bienvenido Gerardo, es un placer tenerte en NeuroStartups!
+[esperar respuesta de Gerardo]
+¿Gerardo, qué es ViewMind? 
+Ciencia
+¿Cuáles fueron las investigaciones que dieron origen a la tecnología detrás de ViewMind (estudios previos en neurociencia cognitiva y seguimiento ocular que inspiraron el proyecto)?
+¿Qué tiene de particular el ojo para evaluar la salud cerebral?
+¿Por qué deciden hacer el pasaje desde el ámbito académico a la industria?
+¿Cómo fue el proceso de construir el primer producto?
+¿Cómo fue el proceso de crear los primeros modelos de IA detrás de este producto?
+¿Qué desafíos tuvieron para hacerlo?
+Vi que tienen mucho trabajo desarrollando patentes /  propiedad intelectual. ¿Qué tan importante son estos temas (la estrategia de propiedad intelectual) en proyectos como los de ViewMind?
+¿De qué manera se alinean los incentivos entre los investigadores / inversores / centros de investigación (por ejemplo, en términos de propiedad intelectual, publicaciones, beneficios económicos)?
+ViewMind colabora además con centros de salud y también centros de investigación. ¿Cómo surgieron estas colaboraciones y cómo se alinean incentivos con estos players?
+
+
+Financiamiento
+¿Cómo fue el proceso de financiamiento de ViewMind? (venture capital, fondos públicos, otros grants) 
+¿De cuanto fue la primera ronda y para qué se usó ese dinero?
+Cristian Hernandez, General Partner de Zentynel
+¿Qué dificultades enfrentaron al buscar financiamiento en etapas tempranas y cómo lograron atraer inversores?
+¿Qué aprendizajes te dejó la experiencia de levantar capital? 
+¿Algún consejo sobre cómo manejar las expectativas de inversionistas en una startup de base científica?
+
+
+Producto y tecnología
+Pasando a temas de producto ¿En qué fase se encuentra ViewMind actualmente?
+¿Cómo ha evolucionado el producto hasta hoy?
+¿Por qué eligieron la VR como plataforma para rastrear los movimientos oculares?
+Sé que están enfocados en condiciones como deterioro cognitivo leve (MCI), Alzheimer, Parkinson o esclerosis múltiple. ¿Qué ensayos clínicos tienen en curso?¿Por qué decidieron enfocarse en estas condiciones?
+Regulación (EMA/FDA):
+Entiendo que están  buscando la aprobación de agencias como la EMA (Europa) o la FDA (Estados Unidos) ¿cómo fueron esos avances y qué desafíos están enfrentando en ese camino regulatorio?
+Go-to-market y clientes
+Clientes actuales y segmentos de mercado:
+ ¿Quiénes son actualmente los principales clientes de ViewMind? (Por ejemplo, clínicas de memoria, neurólogos, centros de investigación, compañías farmacéuticas).
+¿Qué envisionan como mercado potencial en el futuro? tal vez la medicina preventiva, chequeos cognitivos en adultos mayores sanos, etc.)?
+
+
+Casos de uso con farmacéuticas:
+¿Cómo aportan valor a la industria farmaceutica? (Por ejemplo, en ensayos clínicos, ayudando a medir la eficacia de nuevos fármacos, o para seleccionar y hacer seguimiento de pacientes en estudios).
+¿Tienen ya alianzas o pilotos con alguna empresa farmacéutica?¿Cómo se dieron esos primeros contactos?
+
+
+Historia personal - Preguntas de cierre
+No nos gustaría irnos sin conocer tu historia. 
+¿Cómo fue tu camino profesional antes de ViewMind
+¿Cuáles son tus planes para el futuro?
+¿Dónde ves a ViewMind en los próximos cinco años?
+¿Cómo ves a la industria de neurotech hoy?
+¿Qué estrategias recomendás para atraer inversores en etapas tempranas en el ámbito neurotech?
+¿Qué consejos darías a científicos interesados en emprender?
+
+
+Tomás (host) – Cierre: Llegamos al final del episodio. Gerardo, te agradecemos muchísimo por compartir con nosotros tu experiencia y conocimientos. 

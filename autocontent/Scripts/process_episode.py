@@ -20,9 +20,14 @@ def main():
         print(f"Error: No se encontró el archivo de configuración para el episodio {episode_number}")
         sys.exit(1)
     
-    # Crear y ejecutar el procesador de episodios
-    processor = EpisodeProcessor(config_path)
-    processor.run_pipeline()
+    try:
+        # Crear y ejecutar el procesador de episodios
+        processor = EpisodeProcessor(config_path)
+        processor.run_pipeline()
+        
+    except Exception as e:
+        print(f"Error: {str(e)}")
+        sys.exit(1)
 
 if __name__ == "__main__":
     main() 
